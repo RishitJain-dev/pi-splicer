@@ -1,4 +1,4 @@
-# pi-alphanumeriser
+# Pi Splicer
 ever heard of the monkey given a keyboard theory? this is just that
 
 ### How it works
