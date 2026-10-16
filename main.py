@@ -1,4 +1,6 @@
 import config
 import pifinder
+import splicer
 
-pifinder.getpi(config.pidigits)
+pifinder.getpi()
+splicer.splice(config.pidigits, pifinder.pistring)

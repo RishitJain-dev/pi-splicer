@@ -36,10 +36,24 @@ conversions = {
     ## ughhhhh there was definitely a better method but i lowk could not be bothered
 }
 
+converted = []
+
 def splice(pidigits, pistring):
     pistring = pistring.replace(".","")
 
-    processed = []
 
     for x in range(0,len(pistring) - 1,2):
         comb = pistring[x : x+2]
+
+        if len(comb) == 2:
+            if comb in conversions:
+                char = conversions[comb]
+            else:
+                if "0" + comb[0] in conversions:
+                    char = conversions["0" + comb[0]]
+
+            converted.append(char)
+
+    final = "".join(converted)
+
+    print(f"translation: {final}")

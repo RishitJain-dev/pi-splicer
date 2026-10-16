@@ -6,13 +6,12 @@ import mpmath
 
 
 mpmath.mp.dps = config.pidigits + 2
-## pi to a certain amount of digits
+  ## pi to a certain amount of digits
+pistring = str(mpmath.pi)
 
 
-def getpi(pidigits):
-  pistring = str(mpmath.pi)
+def getpi():
+  print(pistring)
 
-  return pistring
-  print(f"Found exact pi to {pidigits} digits!")
 
 
