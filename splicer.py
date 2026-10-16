@@ -42,7 +42,7 @@ def splice(pidigits, pistring):
     pistring = pistring.replace(".","")
 
 
-    for x in range(0,len(pistring) - 1,2):
+    for x in range(0,len(pistring) - 1):
         comb = pistring[x : x+2]
 
         if len(comb) == 2:
