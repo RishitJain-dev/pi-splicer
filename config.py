@@ -1,5 +1,5 @@
 # config.py
-# define all variables and globals for future files
+# define all variables and globals for all other files
 
 pidigits = 10
 ## uses 10 million digits of pi
