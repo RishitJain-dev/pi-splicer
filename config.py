@@ -1,7 +1,7 @@
 # config.py
 # define all variables and globals for future files
 
-pidigits = 10000000
+pidigits = 10
 ## uses 10 million digits of pi
 includeasci = False
 ## (depreciated) chooses whether you can use characters other than space and the alphabet, eg. '^', '#','$'
