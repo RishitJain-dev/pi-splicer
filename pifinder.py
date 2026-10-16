@@ -10,9 +10,9 @@ mpmath.mp.dps = config.pidigits + 2
 
 
 def getpi(pidigits):
-  pi_string = str(mpmath.pi)
+  pistring = str(mpmath.pi)
 
-  return pi_string
+  return pistring
   print(f"Found exact pi to {pidigits} digits!")
 
 
