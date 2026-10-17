@@ -6,8 +6,8 @@ pidigits = 1000
 includeasci = False
 ## (depreciated) chooses whether you can use characters other than space and the alphabet, eg. '^', '#','$'
 maxsearch = 20
-## prevents script from taking years to finish by limiting how many characters you can search up at once.
-search = ""
+## (RESTORED) prevents script from taking years to finish by limiting how many characters you can search up at once.
+search = "yo"
 ## enter search here and it will find it
 
 print("Globals configured!")
