@@ -37,8 +37,10 @@ conversions = {
 }
 
 converted = []
+final = ""
 
 def splice(pidigits, pistring):
+    converted = []
     pistring = pistring.replace(".","")
 
 
@@ -54,6 +56,9 @@ def splice(pidigits, pistring):
 
             converted.append(char)
 
+    global final
+    
     final = "".join(converted)
 
     print(f"translation: {final}")
+    return final
