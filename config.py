@@ -7,7 +7,7 @@ includeasci = False
 ## (depreciated) chooses whether you can use characters other than space and the alphabet, eg. '^', '#','$'
 maxsearch = 20
 ## (RESTORED) prevents script from taking years to finish by limiting how many characters you can search up at once.
-search = "cn"
+search = "CNDOEIZFECEH"
 ## enter search here and it will find it
 
 print("Globals configured!")
