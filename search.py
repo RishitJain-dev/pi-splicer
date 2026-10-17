@@ -1,28 +1,25 @@
 import config
-import pifinder
-import splicer
-## other files working together
 
-import mpmath
-## external libraries
 
-final = splicer.splice(config.pidigits, pifinder.pistring)
+def search(final, maxsearch):
+    search_term = config.search.upper()
 
-def search(maxsearch):
-    if config.search in final:
-        if len(config.search) <= int(maxsearch):
-            index_position = final.find(config.search)
+    if len(search_term) > int(maxsearch):
+        print("too long of a search, will take years to finish")
+        return
 
-            if index_position != -1:
-                print(f"we found{config.search}")
-                print(f"your phrase is at: {index_position}")
+    index_position = final.find(search_term)
+    if index_position == -1:
+        print(
+            f"'{config.search} is not in these digits of pi, "
+            "please increase the pidigits to find it! "
+            "(WARNING: THIS WILL TAKE A LONG TIME, POSSIBLY OVER 10 HOURS)"
+        )
+        return
 
-                start = max(0, index_position - 5)
-                end = min(len(final), index_position + len(config.search) + 5)
-                print(f"translating... {final[start:end]}...")
+    print(f"we found {config.search}")
+    print(f"your phrase is at: {index_position}")
 
-            else:
-                print(f"'{config.search} is not in these digits of pi, please increase the pidigits to find it! (WARNING: THIS WILL TAKE A LONG TIME, POSSIBLY OVER 10 HOURS)")
-        else:
-            print("too long of a search, will take years to finish")
-
+    start = max(0, index_position - 5)
+    end = min(len(final), index_position + len(search_term) + 5)
+    print(f"translating... {final[start:end]}...")

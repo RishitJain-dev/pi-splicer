@@ -4,5 +4,5 @@ import splicer
 import search
 
 pifinder.getpi()
-splicer.splice(config.pidigits, pifinder.pistring)
-search.search(config.maxsearch)
+final = splicer.splice(config.pidigits, pifinder.pistring)
+search.search(final, config.maxsearch)
