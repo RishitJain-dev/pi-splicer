@@ -5,20 +5,27 @@ import sys
 import time
 from colorama import Fore, Style, init
 import random
+from rich.progress import Progress
 import pyfiglet
 ## libraries
 
 init(autoreset=True)
 
+spinners = ["▖", "▘", "▝", "▗"]
+
 def search(final, maxsearch):
-    banner = pyfiglet.figlet_format("PI    SPLICER", font="standard")
+    banner = pyfiglet.figlet_format("PI    SPLICER", font="bulbhead")
     print(f"{Fore.CYAN}{Style.BRIGHT}{banner}")
 
-    for x in range(len(config.search)):
-        sys.stdout.write(f"\r[searching... stage {x}]")
-        sys.stdout.flush()
+    for x in range(randomload):
+        with Progress() as p:
+            t = p.add_task(f"searching...", total=100)
+            while not p.finished:
+                p.update(t, advance=1)
+                time.sleep(0.03)
+        
 
-        randomload = random.uniform(0.2, 1.2)
+        randomload = random.uniform(1, 5)
         time.sleep(randomload)
 
     search_term = config.search.upper()
