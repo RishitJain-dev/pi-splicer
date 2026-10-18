@@ -12,6 +12,8 @@ import pyfiglet
 init(autoreset=True)
 
 spinners = ["▖", "▘", "▝", "▗"]
+randomload = random.randint(1, 5)
+
 
 def search(final, maxsearch):
     banner = pyfiglet.figlet_format("PI    SPLICER", font="bulbhead")
@@ -19,19 +21,18 @@ def search(final, maxsearch):
 
     for x in range(randomload):
         with Progress() as p:
-            t = p.add_task(f"searching...", total=100)
+            t = p.add_task(f"searching... {x}", total=100)
             while not p.finished:
-                p.update(t, advance=1)
+                p.update(t, advance=randomload)
                 time.sleep(0.03)
         
 
-        randomload = random.uniform(1, 5)
         time.sleep(randomload)
 
     search_term = config.search.upper()
 
     if len(search_term) > int(maxsearch):
-        print("\ntoo long of a search, will take years to finish")
+        print(f"\n{Fore.RED}{Style.BRIGHT}too long of a search, will take years to finish")
         return
 
     index_position = final.find(search_term)
