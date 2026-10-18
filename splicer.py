@@ -60,5 +60,5 @@ def splice(pidigits, pistring):
     
     final = "".join(converted)
 
-    print(f"translation: {final}")
+    ##print(f"translation: {final}")
     return final

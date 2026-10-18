@@ -6,19 +6,15 @@ import time
 from colorama import Fore, Style, init
 import random
 from rich.progress import Progress
-import pyfiglet
 ## libraries
 
 init(autoreset=True)
 
-spinners = ["▖", "▘", "▝", "▗"]
+spinners = ["▖", "▘", "▝", "▗"] # depreciated
 randomload = random.randint(1, 5)
 
 
 def search(final, maxsearch):
-    banner = pyfiglet.figlet_format("PI    SPLICER", font="bulbhead")
-    print(f"{Fore.CYAN}{Style.BRIGHT}{banner}")
-
     for x in range(randomload):
         with Progress() as p:
             t = p.add_task(f"searching... {x}", total=100)

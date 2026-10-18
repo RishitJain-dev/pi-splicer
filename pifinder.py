@@ -11,7 +11,7 @@ pistring = str(mpmath.pi)
 
 
 def getpi():
-  print(pistring)
+  return pistring
 
 
 
