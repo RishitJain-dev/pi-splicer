@@ -11,7 +11,7 @@ import pyfiglet
 init(autoreset=True)
 
 def search(final, maxsearch):
-    banner = pyfiglet.figlet_format("P I     S P L I C E R", font="standard")
+    banner = pyfiglet.figlet_format("PI    SPLICER", font="standard")
     print(f"{Fore.CYAN}{Style.BRIGHT}{banner}")
 
     for x in range(len(config.search)):
