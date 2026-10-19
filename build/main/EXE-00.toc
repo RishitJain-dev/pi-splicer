@@ -2992,7 +2992,7 @@
  [],
  False,
  False,
- 1792419977,
+ 1792420129,
  [('run.exe',
    'C:\\Users\\rishi\\Documents\\pi '
    'splicer\\venv\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
