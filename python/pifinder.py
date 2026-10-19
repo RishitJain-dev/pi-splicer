@@ -1,4 +1,4 @@
-import python.config as config
+import config
 ## other files working together
 
 import mpmath

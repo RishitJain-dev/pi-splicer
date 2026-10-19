@@ -1,7 +1,7 @@
-import python.config as config
-import python.pifinder as pifinder
-import python.splicer as splicer
-import python.search as search
+import config
+import pifinder
+import splicer
+import search
 
 pifinder.getpi()
 final = splicer.splice(config.pidigits, pifinder.pistring)

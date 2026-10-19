@@ -1,5 +1,5 @@
-import python.config as config
-import python.pifinder as pifinder
+import config
+import pifinder
 ## other files working together
 
 import mpmath
@@ -43,18 +43,10 @@ def splice(pidigits, pistring):
     converted = []
     pistring = pistring.replace(".","")
 
-
-    for x in range(0,len(pistring) - 1):
+    for x in range(0, len(pistring) - 1, 2):
         comb = pistring[x : x+2]
-
-        if len(comb) == 2:
-            if comb in conversions:
-                char = conversions[comb]
-            else:
-                if "0" + comb[0] in conversions:
-                    char = conversions["0" + comb[0]]
-
-            converted.append(char)
+        if comb in conversions:
+            converted.append(conversions[comb])
 
     global final
     
