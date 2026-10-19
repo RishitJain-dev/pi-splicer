@@ -4,7 +4,62 @@
   'pyfiglet.__main__',
   'pyfiglet.fonts',
   'pyfiglet.test',
-  'pyfiglet.version'],
+  'pyfiglet.version',
+  'mpmath',
+  'mpmath.__main__',
+  'mpmath._interactive',
+  'mpmath._version',
+  'mpmath.calculus',
+  'mpmath.calculus.approximation',
+  'mpmath.calculus.calculus',
+  'mpmath.calculus.differentiation',
+  'mpmath.calculus.extrapolation',
+  'mpmath.calculus.inverselaplace',
+  'mpmath.calculus.odes',
+  'mpmath.calculus.optimization',
+  'mpmath.calculus.polynomials',
+  'mpmath.calculus.quadrature',
+  'mpmath.ctx_base',
+  'mpmath.ctx_fp',
+  'mpmath.ctx_iv',
+  'mpmath.ctx_mp',
+  'mpmath.ctx_mp_python',
+  'mpmath.function_docs',
+  'mpmath.functions',
+  'mpmath.functions.bessel',
+  'mpmath.functions.elliptic',
+  'mpmath.functions.expintegrals',
+  'mpmath.functions.factorials',
+  'mpmath.functions.functions',
+  'mpmath.functions.hypergeometric',
+  'mpmath.functions.orthogonal',
+  'mpmath.functions.qfunctions',
+  'mpmath.functions.rszeta',
+  'mpmath.functions.signals',
+  'mpmath.functions.theta',
+  'mpmath.functions.zeta',
+  'mpmath.functions.zetazeros',
+  'mpmath.identification',
+  'mpmath.libfp',
+  'mpmath.libmp',
+  'mpmath.libmp.backend',
+  'mpmath.libmp.gammazeta',
+  'mpmath.libmp.libelefun',
+  'mpmath.libmp.libhyper',
+  'mpmath.libmp.libintmath',
+  'mpmath.libmp.libmpc',
+  'mpmath.libmp.libmpf',
+  'mpmath.libmp.libmpi',
+  'mpmath.math2',
+  'mpmath.matrices',
+  'mpmath.matrices.calculus',
+  'mpmath.matrices.eigen',
+  'mpmath.matrices.eigen_symmetric',
+  'mpmath.matrices.linalg',
+  'mpmath.matrices.matrices',
+  'mpmath.rational',
+  'mpmath.usertools',
+  'mpmath.visualization'],
  [('C:\\Users\\rishi\\Documents\\pi '
    'splicer\\venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks',
    -1000),
@@ -18,7 +73,415 @@
  {},
  0,
  [],
- [('pyfiglet-1.0.4.dist-info\\INSTALLER',
+ [('mpmath-1.4.1.dist-info\\INSTALLER',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath-1.4.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('mpmath-1.4.1.dist-info\\METADATA',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath-1.4.1.dist-info\\METADATA',
+   'DATA'),
+  ('mpmath-1.4.1.dist-info\\RECORD',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath-1.4.1.dist-info\\RECORD',
+   'DATA'),
+  ('mpmath-1.4.1.dist-info\\REQUESTED',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath-1.4.1.dist-info\\REQUESTED',
+   'DATA'),
+  ('mpmath-1.4.1.dist-info\\WHEEL',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath-1.4.1.dist-info\\WHEEL',
+   'DATA'),
+  ('mpmath-1.4.1.dist-info\\licenses\\LICENSE',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath-1.4.1.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('mpmath-1.4.1.dist-info\\top_level.txt',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath-1.4.1.dist-info\\top_level.txt',
+   'DATA'),
+  ('mpmath-1.4.1.dist-info\\zip-safe',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath-1.4.1.dist-info\\zip-safe',
+   'DATA'),
+  ('mpmath\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\__init__.py',
+   'DATA'),
+  ('mpmath\\__main__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\__main__.py',
+   'DATA'),
+  ('mpmath\\_interactive.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\_interactive.py',
+   'DATA'),
+  ('mpmath\\_version.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\_version.py',
+   'DATA'),
+  ('mpmath\\calculus\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\__init__.py',
+   'DATA'),
+  ('mpmath\\calculus\\approximation.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\approximation.py',
+   'DATA'),
+  ('mpmath\\calculus\\calculus.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\calculus.py',
+   'DATA'),
+  ('mpmath\\calculus\\differentiation.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\differentiation.py',
+   'DATA'),
+  ('mpmath\\calculus\\extrapolation.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\extrapolation.py',
+   'DATA'),
+  ('mpmath\\calculus\\inverselaplace.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\inverselaplace.py',
+   'DATA'),
+  ('mpmath\\calculus\\odes.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\odes.py',
+   'DATA'),
+  ('mpmath\\calculus\\optimization.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\optimization.py',
+   'DATA'),
+  ('mpmath\\calculus\\polynomials.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\polynomials.py',
+   'DATA'),
+  ('mpmath\\calculus\\quadrature.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\quadrature.py',
+   'DATA'),
+  ('mpmath\\ctx_base.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\ctx_base.py',
+   'DATA'),
+  ('mpmath\\ctx_fp.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\ctx_fp.py',
+   'DATA'),
+  ('mpmath\\ctx_iv.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\ctx_iv.py',
+   'DATA'),
+  ('mpmath\\ctx_mp.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\ctx_mp.py',
+   'DATA'),
+  ('mpmath\\ctx_mp_python.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\ctx_mp_python.py',
+   'DATA'),
+  ('mpmath\\function_docs.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\function_docs.py',
+   'DATA'),
+  ('mpmath\\functions\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\__init__.py',
+   'DATA'),
+  ('mpmath\\functions\\bessel.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\bessel.py',
+   'DATA'),
+  ('mpmath\\functions\\elliptic.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\elliptic.py',
+   'DATA'),
+  ('mpmath\\functions\\expintegrals.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\expintegrals.py',
+   'DATA'),
+  ('mpmath\\functions\\factorials.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\factorials.py',
+   'DATA'),
+  ('mpmath\\functions\\functions.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\functions.py',
+   'DATA'),
+  ('mpmath\\functions\\hypergeometric.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\hypergeometric.py',
+   'DATA'),
+  ('mpmath\\functions\\orthogonal.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\orthogonal.py',
+   'DATA'),
+  ('mpmath\\functions\\qfunctions.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\qfunctions.py',
+   'DATA'),
+  ('mpmath\\functions\\rszeta.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\rszeta.py',
+   'DATA'),
+  ('mpmath\\functions\\signals.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\signals.py',
+   'DATA'),
+  ('mpmath\\functions\\theta.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\theta.py',
+   'DATA'),
+  ('mpmath\\functions\\zeta.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\zeta.py',
+   'DATA'),
+  ('mpmath\\functions\\zetazeros.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\zetazeros.py',
+   'DATA'),
+  ('mpmath\\identification.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\identification.py',
+   'DATA'),
+  ('mpmath\\libfp.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\libfp.py',
+   'DATA'),
+  ('mpmath\\libmp\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\__init__.py',
+   'DATA'),
+  ('mpmath\\libmp\\backend.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\backend.py',
+   'DATA'),
+  ('mpmath\\libmp\\gammazeta.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\gammazeta.py',
+   'DATA'),
+  ('mpmath\\libmp\\libelefun.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\libelefun.py',
+   'DATA'),
+  ('mpmath\\libmp\\libhyper.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\libhyper.py',
+   'DATA'),
+  ('mpmath\\libmp\\libintmath.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\libintmath.py',
+   'DATA'),
+  ('mpmath\\libmp\\libmpc.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\libmpc.py',
+   'DATA'),
+  ('mpmath\\libmp\\libmpf.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\libmpf.py',
+   'DATA'),
+  ('mpmath\\libmp\\libmpi.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\libmpi.py',
+   'DATA'),
+  ('mpmath\\math2.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\math2.py',
+   'DATA'),
+  ('mpmath\\matrices\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\matrices\\__init__.py',
+   'DATA'),
+  ('mpmath\\matrices\\calculus.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\matrices\\calculus.py',
+   'DATA'),
+  ('mpmath\\matrices\\eigen.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\matrices\\eigen.py',
+   'DATA'),
+  ('mpmath\\matrices\\eigen_symmetric.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\matrices\\eigen_symmetric.py',
+   'DATA'),
+  ('mpmath\\matrices\\linalg.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\matrices\\linalg.py',
+   'DATA'),
+  ('mpmath\\matrices\\matrices.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\matrices\\matrices.py',
+   'DATA'),
+  ('mpmath\\rational.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\rational.py',
+   'DATA'),
+  ('mpmath\\tests\\test_basic_ops.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_basic_ops.py',
+   'DATA'),
+  ('mpmath\\tests\\test_bitwise.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_bitwise.py',
+   'DATA'),
+  ('mpmath\\tests\\test_calculus.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_calculus.py',
+   'DATA'),
+  ('mpmath\\tests\\test_cli.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_cli.py',
+   'DATA'),
+  ('mpmath\\tests\\test_compatibility.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_compatibility.py',
+   'DATA'),
+  ('mpmath\\tests\\test_convert.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_convert.py',
+   'DATA'),
+  ('mpmath\\tests\\test_demos.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_demos.py',
+   'DATA'),
+  ('mpmath\\tests\\test_diff.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_diff.py',
+   'DATA'),
+  ('mpmath\\tests\\test_division.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_division.py',
+   'DATA'),
+  ('mpmath\\tests\\test_eigen.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_eigen.py',
+   'DATA'),
+  ('mpmath\\tests\\test_eigen_symmetric.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_eigen_symmetric.py',
+   'DATA'),
+  ('mpmath\\tests\\test_elliptic.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_elliptic.py',
+   'DATA'),
+  ('mpmath\\tests\\test_extra_gamma.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_extra_gamma.py',
+   'DATA'),
+  ('mpmath\\tests\\test_extra_zeta.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_extra_zeta.py',
+   'DATA'),
+  ('mpmath\\tests\\test_format.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_format.py',
+   'DATA'),
+  ('mpmath\\tests\\test_fp.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_fp.py',
+   'DATA'),
+  ('mpmath\\tests\\test_functions.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_functions.py',
+   'DATA'),
+  ('mpmath\\tests\\test_functions2.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_functions2.py',
+   'DATA'),
+  ('mpmath\\tests\\test_gammazeta.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_gammazeta.py',
+   'DATA'),
+  ('mpmath\\tests\\test_hp.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_hp.py',
+   'DATA'),
+  ('mpmath\\tests\\test_identify.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_identify.py',
+   'DATA'),
+  ('mpmath\\tests\\test_interval.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_interval.py',
+   'DATA'),
+  ('mpmath\\tests\\test_levin.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_levin.py',
+   'DATA'),
+  ('mpmath\\tests\\test_linalg.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_linalg.py',
+   'DATA'),
+  ('mpmath\\tests\\test_matrices.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_matrices.py',
+   'DATA'),
+  ('mpmath\\tests\\test_module.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_module.py',
+   'DATA'),
+  ('mpmath\\tests\\test_mpmath.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_mpmath.py',
+   'DATA'),
+  ('mpmath\\tests\\test_ode.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_ode.py',
+   'DATA'),
+  ('mpmath\\tests\\test_pickle.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_pickle.py',
+   'DATA'),
+  ('mpmath\\tests\\test_power.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_power.py',
+   'DATA'),
+  ('mpmath\\tests\\test_quad.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_quad.py',
+   'DATA'),
+  ('mpmath\\tests\\test_rootfinding.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_rootfinding.py',
+   'DATA'),
+  ('mpmath\\tests\\test_special.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_special.py',
+   'DATA'),
+  ('mpmath\\tests\\test_str.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_str.py',
+   'DATA'),
+  ('mpmath\\tests\\test_summation.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_summation.py',
+   'DATA'),
+  ('mpmath\\tests\\test_torture.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_torture.py',
+   'DATA'),
+  ('mpmath\\tests\\test_trig.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_trig.py',
+   'DATA'),
+  ('mpmath\\tests\\test_version_frozen.sh',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_version_frozen.sh',
+   'DATA'),
+  ('mpmath\\tests\\test_visualization.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_visualization.py',
+   'DATA'),
+  ('mpmath\\usertools.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\usertools.py',
+   'DATA'),
+  ('mpmath\\visualization.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\visualization.py',
+   'DATA'),
+  ('pyfiglet-1.0.4.dist-info\\INSTALLER',
    'C:\\Users\\rishi\\Documents\\pi '
    'splicer\\venv\\Lib\\site-packages\\pyfiglet-1.0.4.dist-info\\INSTALLER',
    'DATA'),
@@ -3055,6 +3518,434 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\__init__.py',
    'PYMODULE'),
+  ('mpmath.visualization',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\visualization.py',
+   'PYMODULE'),
+  ('colorsys',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\colorsys.py',
+   'PYMODULE'),
+  ('mpmath.usertools',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\usertools.py',
+   'PYMODULE'),
+  ('timeit',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\timeit.py',
+   'PYMODULE'),
+  ('mpmath.rational',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\rational.py',
+   'PYMODULE'),
+  ('mpmath.matrices.matrices',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\matrices\\matrices.py',
+   'PYMODULE'),
+  ('mpmath.matrices.linalg',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\matrices\\linalg.py',
+   'PYMODULE'),
+  ('mpmath.matrices.eigen_symmetric',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\matrices\\eigen_symmetric.py',
+   'PYMODULE'),
+  ('mpmath.matrices.eigen',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\matrices\\eigen.py',
+   'PYMODULE'),
+  ('mpmath.matrices.calculus',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\matrices\\calculus.py',
+   'PYMODULE'),
+  ('mpmath.matrices',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\matrices\\__init__.py',
+   'PYMODULE'),
+  ('mpmath.math2',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\math2.py',
+   'PYMODULE'),
+  ('mpmath.libmp.libmpi',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\libmpi.py',
+   'PYMODULE'),
+  ('mpmath.libmp.libmpf',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\libmpf.py',
+   'PYMODULE'),
+  ('mpmath.libmp.libmpc',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\libmpc.py',
+   'PYMODULE'),
+  ('mpmath.libmp.libintmath',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\libintmath.py',
+   'PYMODULE'),
+  ('mpmath.libmp.libhyper',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\libhyper.py',
+   'PYMODULE'),
+  ('mpmath.libmp.libelefun',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\libelefun.py',
+   'PYMODULE'),
+  ('mpmath.libmp.gammazeta',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\gammazeta.py',
+   'PYMODULE'),
+  ('mpmath.libmp.backend',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\backend.py',
+   'PYMODULE'),
+  ('mpmath.libmp',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\__init__.py',
+   'PYMODULE'),
+  ('mpmath.libfp',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\libfp.py',
+   'PYMODULE'),
+  ('mpmath.identification',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\identification.py',
+   'PYMODULE'),
+  ('mpmath.functions.zetazeros',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\zetazeros.py',
+   'PYMODULE'),
+  ('mpmath.functions.zeta',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\zeta.py',
+   'PYMODULE'),
+  ('mpmath.functions.theta',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\theta.py',
+   'PYMODULE'),
+  ('mpmath.functions.signals',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\signals.py',
+   'PYMODULE'),
+  ('mpmath.functions.rszeta',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\rszeta.py',
+   'PYMODULE'),
+  ('mpmath.functions.qfunctions',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\qfunctions.py',
+   'PYMODULE'),
+  ('mpmath.functions.orthogonal',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\orthogonal.py',
+   'PYMODULE'),
+  ('mpmath.functions.hypergeometric',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\hypergeometric.py',
+   'PYMODULE'),
+  ('mpmath.functions.functions',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\functions.py',
+   'PYMODULE'),
+  ('mpmath.functions.factorials',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\factorials.py',
+   'PYMODULE'),
+  ('mpmath.functions.expintegrals',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\expintegrals.py',
+   'PYMODULE'),
+  ('mpmath.functions.elliptic',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\elliptic.py',
+   'PYMODULE'),
+  ('mpmath.functions.bessel',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\bessel.py',
+   'PYMODULE'),
+  ('mpmath.functions',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\__init__.py',
+   'PYMODULE'),
+  ('mpmath.function_docs',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\function_docs.py',
+   'PYMODULE'),
+  ('mpmath.ctx_mp_python',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\ctx_mp_python.py',
+   'PYMODULE'),
+  ('mpmath.ctx_mp',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\ctx_mp.py',
+   'PYMODULE'),
+  ('mpmath.ctx_iv',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\ctx_iv.py',
+   'PYMODULE'),
+  ('mpmath.ctx_fp',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\ctx_fp.py',
+   'PYMODULE'),
+  ('mpmath.ctx_base',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\ctx_base.py',
+   'PYMODULE'),
+  ('mpmath.calculus.quadrature',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\quadrature.py',
+   'PYMODULE'),
+  ('mpmath.calculus.polynomials',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\polynomials.py',
+   'PYMODULE'),
+  ('mpmath.calculus.optimization',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\optimization.py',
+   'PYMODULE'),
+  ('mpmath.calculus.odes',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\odes.py',
+   'PYMODULE'),
+  ('mpmath.calculus.inverselaplace',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\inverselaplace.py',
+   'PYMODULE'),
+  ('mpmath.calculus.extrapolation',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\extrapolation.py',
+   'PYMODULE'),
+  ('mpmath.calculus.differentiation',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\differentiation.py',
+   'PYMODULE'),
+  ('mpmath.calculus.calculus',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\calculus.py',
+   'PYMODULE'),
+  ('mpmath.calculus.approximation',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\approximation.py',
+   'PYMODULE'),
+  ('mpmath.calculus',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\__init__.py',
+   'PYMODULE'),
+  ('mpmath._version',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\_version.py',
+   'PYMODULE'),
+  ('mpmath._interactive',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\_interactive.py',
+   'PYMODULE'),
+  ('mpmath.__main__',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\__main__.py',
+   'PYMODULE'),
+  ('_pyrepl.simple_interact',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\simple_interact.py',
+   'PYMODULE'),
+  ('_pyrepl',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\__init__.py',
+   'PYMODULE'),
+  ('_pyrepl.input',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\input.py',
+   'PYMODULE'),
+  ('_pyrepl.types',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\types.py',
+   'PYMODULE'),
+  ('_pyrepl.commands',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\commands.py',
+   'PYMODULE'),
+  ('site',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\site.py',
+   'PYMODULE'),
+  ('_pyrepl.pager',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\pager.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\tty.py',
+   'PYMODULE'),
+  ('_pyrepl.historical_reader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\historical_reader.py',
+   'PYMODULE'),
+  ('_pyrepl.reader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\reader.py',
+   'PYMODULE'),
+  ('_pyrepl._threading_handler',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\_threading_handler.py',
+   'PYMODULE'),
+  ('_pyrepl.trace',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\trace.py',
+   'PYMODULE'),
+  ('_pyrepl.utils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\utils.py',
+   'PYMODULE'),
+  ('_colorize',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_colorize.py',
+   'PYMODULE'),
+  ('_pyrepl.curses',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\curses.py',
+   'PYMODULE'),
+  ('curses',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\curses\\__init__.py',
+   'PYMODULE'),
+  ('curses.has_key',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\curses\\has_key.py',
+   'PYMODULE'),
+  ('_pyrepl._minimal_curses',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\_minimal_curses.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('_pyrepl.keymap',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\keymap.py',
+   'PYMODULE'),
+  ('_pyrepl.windows_console',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\windows_console.py',
+   'PYMODULE'),
+  ('_pyrepl.windows_eventqueue',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\windows_eventqueue.py',
+   'PYMODULE'),
+  ('_pyrepl.base_eventqueue',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\base_eventqueue.py',
+   'PYMODULE'),
+  ('_pyrepl.unix_console',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\unix_console.py',
+   'PYMODULE'),
+  ('_pyrepl.unix_eventqueue',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\unix_eventqueue.py',
+   'PYMODULE'),
+  ('_pyrepl.fancy_termios',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\fancy_termios.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\platform.py',
+   'PYMODULE'),
+  ('_pyrepl.readline',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\readline.py',
+   'PYMODULE'),
+  ('_pyrepl.completing_reader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\completing_reader.py',
+   'PYMODULE'),
+  ('_sitebuiltins',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_sitebuiltins.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\webbrowser.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\shlex.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\http\\server.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\socketserver.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data.module_docs',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\pydoc_data\\module_docs.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('_pyrepl.console',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\console.py',
+   'PYMODULE'),
+  ('_pyrepl.main',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\main.py',
+   'PYMODULE'),
+  ('rlcompleter',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\rlcompleter.py',
+   'PYMODULE'),
+  ('mpmath',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\__init__.py',
+   'PYMODULE'),
   ('pyfiglet.version',
    'C:\\Users\\rishi\\Documents\\pi '
    'splicer\\venv\\Lib\\site-packages\\pyfiglet\\version.py',
@@ -3107,17 +3998,13 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_py_abc.py',
    'PYMODULE'),
-  ('tracemalloc',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\tracemalloc.py',
-   'PYMODULE'),
-  ('_colorize',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_colorize.py',
-   'PYMODULE'),
   ('stringprep',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\tracemalloc.py',
    'PYMODULE'),
   ('search',
    'C:\\Users\\rishi\\Documents\\pi splicer\\python\\search.py',
@@ -3154,10 +4041,6 @@
   ('uuid',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\uuid.py',
-   'PYMODULE'),
-  ('platform',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\platform.py',
    'PYMODULE'),
   ('winrt.windows', '-', 'PYMODULE'),
   ('winrt.system',
@@ -3552,10 +4435,6 @@
   ('rich._palettes',
    'C:\\Users\\rishi\\Documents\\pi '
    'splicer\\venv\\Lib\\site-packages\\rich\\_palettes.py',
-   'PYMODULE'),
-  ('colorsys',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\colorsys.py',
    'PYMODULE'),
   ('rich.cells',
    'C:\\Users\\rishi\\Documents\\pi '
@@ -4905,14 +5784,6 @@
    'C:\\Users\\rishi\\Documents\\pi '
    'splicer\\venv\\Lib\\site-packages\\pygments\\formatter.py',
    'PYMODULE'),
-  ('html',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\html\\__init__.py',
-   'PYMODULE'),
-  ('html.entities',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\html\\entities.py',
-   'PYMODULE'),
   ('pygments.token',
    'C:\\Users\\rishi\\Documents\\pi '
    'splicer\\venv\\Lib\\site-packages\\pygments\\token.py',
@@ -4984,10 +5855,6 @@
   ('pty',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\pty.py',
-   'PYMODULE'),
-  ('tty',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\tty.py',
    'PYMODULE'),
   ('rich.markup',
    'C:\\Users\\rishi\\Documents\\pi '
@@ -5140,46 +6007,6 @@
   ('rich.markdown',
    'C:\\Users\\rishi\\Documents\\pi '
    'splicer\\venv\\Lib\\site-packages\\rich\\markdown.py',
-   'PYMODULE'),
-  ('pydoc',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\pydoc.py',
-   'PYMODULE'),
-  ('webbrowser',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\webbrowser.py',
-   'PYMODULE'),
-  ('shlex',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\shlex.py',
-   'PYMODULE'),
-  ('http.server',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\http\\server.py',
-   'PYMODULE'),
-  ('socketserver',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\socketserver.py',
-   'PYMODULE'),
-  ('pydoc_data.topics',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\pydoc_data\\topics.py',
-   'PYMODULE'),
-  ('pydoc_data.module_docs',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\pydoc_data\\module_docs.py',
-   'PYMODULE'),
-  ('pydoc_data',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\pydoc_data\\__init__.py',
-   'PYMODULE'),
-  ('_pyrepl.pager',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\pager.py',
-   'PYMODULE'),
-  ('_pyrepl',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\__init__.py',
    'PYMODULE'),
   ('rich._stack',
    'C:\\Users\\rishi\\Documents\\pi '
@@ -5580,222 +6407,6 @@
   ('splicer',
    'C:\\Users\\rishi\\Documents\\pi splicer\\python\\splicer.py',
    'PYMODULE'),
-  ('mpmath',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\__init__.py',
-   'PYMODULE'),
-  ('mpmath.math2',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\math2.py',
-   'PYMODULE'),
-  ('mpmath.rational',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\rational.py',
-   'PYMODULE'),
-  ('mpmath.ctx_iv',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\ctx_iv.py',
-   'PYMODULE'),
-  ('mpmath.ctx_base',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\ctx_base.py',
-   'PYMODULE'),
-  ('mpmath.visualization',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\visualization.py',
-   'PYMODULE'),
-  ('mpmath.matrices.linalg',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\matrices\\linalg.py',
-   'PYMODULE'),
-  ('mpmath.matrices',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\matrices\\__init__.py',
-   'PYMODULE'),
-  ('mpmath.matrices.eigen_symmetric',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\matrices\\eigen_symmetric.py',
-   'PYMODULE'),
-  ('mpmath.matrices.eigen',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\matrices\\eigen.py',
-   'PYMODULE'),
-  ('mpmath.matrices.calculus',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\matrices\\calculus.py',
-   'PYMODULE'),
-  ('mpmath.identification',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\identification.py',
-   'PYMODULE'),
-  ('mpmath.functions.rszeta',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\rszeta.py',
-   'PYMODULE'),
-  ('mpmath.functions',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\__init__.py',
-   'PYMODULE'),
-  ('mpmath.functions.qfunctions',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\qfunctions.py',
-   'PYMODULE'),
-  ('mpmath.functions.zetazeros',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\zetazeros.py',
-   'PYMODULE'),
-  ('mpmath.functions.zeta',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\zeta.py',
-   'PYMODULE'),
-  ('mpmath.functions.signals',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\signals.py',
-   'PYMODULE'),
-  ('mpmath.functions.elliptic',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\elliptic.py',
-   'PYMODULE'),
-  ('mpmath.functions.theta',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\theta.py',
-   'PYMODULE'),
-  ('mpmath.functions.orthogonal',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\orthogonal.py',
-   'PYMODULE'),
-  ('mpmath.libmp.backend',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\backend.py',
-   'PYMODULE'),
-  ('mpmath.functions.bessel',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\bessel.py',
-   'PYMODULE'),
-  ('mpmath.functions.expintegrals',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\expintegrals.py',
-   'PYMODULE'),
-  ('mpmath.functions.hypergeometric',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\hypergeometric.py',
-   'PYMODULE'),
-  ('mpmath.functions.factorials',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\factorials.py',
-   'PYMODULE'),
-  ('mpmath.functions.functions',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\functions.py',
-   'PYMODULE'),
-  ('mpmath.calculus.quadrature',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\quadrature.py',
-   'PYMODULE'),
-  ('mpmath.calculus',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\__init__.py',
-   'PYMODULE'),
-  ('mpmath.calculus.polynomials',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\polynomials.py',
-   'PYMODULE'),
-  ('mpmath.calculus.extrapolation',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\extrapolation.py',
-   'PYMODULE'),
-  ('mpmath.calculus.differentiation',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\differentiation.py',
-   'PYMODULE'),
-  ('mpmath.calculus.approximation',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\approximation.py',
-   'PYMODULE'),
-  ('mpmath.calculus.optimization',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\optimization.py',
-   'PYMODULE'),
-  ('mpmath.calculus.odes',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\odes.py',
-   'PYMODULE'),
-  ('mpmath.calculus.inverselaplace',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\inverselaplace.py',
-   'PYMODULE'),
-  ('mpmath.calculus.calculus',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\calculus.py',
-   'PYMODULE'),
-  ('mpmath.matrices.matrices',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\matrices\\matrices.py',
-   'PYMODULE'),
-  ('mpmath.ctx_mp',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\ctx_mp.py',
-   'PYMODULE'),
-  ('mpmath.ctx_mp_python',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\ctx_mp_python.py',
-   'PYMODULE'),
-  ('mpmath.ctx_fp',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\ctx_fp.py',
-   'PYMODULE'),
-  ('mpmath.libmp',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\__init__.py',
-   'PYMODULE'),
-  ('mpmath.libmp.libmpi',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\libmpi.py',
-   'PYMODULE'),
-  ('mpmath.libmp.libmpf',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\libmpf.py',
-   'PYMODULE'),
-  ('mpmath.libmp.libmpc',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\libmpc.py',
-   'PYMODULE'),
-  ('mpmath.libmp.libintmath',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\libintmath.py',
-   'PYMODULE'),
-  ('mpmath.libmp.libhyper',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\libhyper.py',
-   'PYMODULE'),
-  ('mpmath.libmp.libelefun',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\libelefun.py',
-   'PYMODULE'),
-  ('mpmath.libmp.gammazeta',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\gammazeta.py',
-   'PYMODULE'),
-  ('mpmath.libfp',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\libfp.py',
-   'PYMODULE'),
-  ('mpmath.function_docs',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\function_docs.py',
-   'PYMODULE'),
-  ('mpmath.usertools',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\usertools.py',
-   'PYMODULE'),
-  ('timeit',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\timeit.py',
-   'PYMODULE'),
-  ('mpmath._version',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\mpmath\\_version.py',
-   'PYMODULE'),
   ('pifinder',
    'C:\\Users\\rishi\\Documents\\pi splicer\\python\\pifinder.py',
    'PYMODULE'),
@@ -5854,6 +6465,10 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_queue.pyd',
    'EXTENSION'),
+  ('_wmi.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_wmi.pyd',
+   'EXTENSION'),
   ('winsound.pyd',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\winsound.pyd',
@@ -5873,10 +6488,6 @@
   ('_uuid.pyd',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_uuid.pyd',
-   'EXTENSION'),
-  ('_wmi.pyd',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_wmi.pyd',
    'EXTENSION'),
   ('winrt\\_winrt_windows_storage_streams.cp313-win_amd64.pyd',
    'C:\\Users\\rishi\\Documents\\pi '
@@ -5942,17 +6553,425 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\libffi-8.dll',
    'BINARY'),
-  ('winrt\\MSVCP140.dll',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\winrt\\MSVCP140.dll',
-   'BINARY'),
   ('VCRUNTIME140_1.dll',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('winrt\\MSVCP140.dll',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\winrt\\MSVCP140.dll',
    'BINARY')],
  [],
  [],
- [('pyfiglet-1.0.4.dist-info\\INSTALLER',
+ [('mpmath-1.4.1.dist-info\\INSTALLER',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath-1.4.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('mpmath-1.4.1.dist-info\\METADATA',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath-1.4.1.dist-info\\METADATA',
+   'DATA'),
+  ('mpmath-1.4.1.dist-info\\RECORD',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath-1.4.1.dist-info\\RECORD',
+   'DATA'),
+  ('mpmath-1.4.1.dist-info\\REQUESTED',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath-1.4.1.dist-info\\REQUESTED',
+   'DATA'),
+  ('mpmath-1.4.1.dist-info\\WHEEL',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath-1.4.1.dist-info\\WHEEL',
+   'DATA'),
+  ('mpmath-1.4.1.dist-info\\licenses\\LICENSE',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath-1.4.1.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('mpmath-1.4.1.dist-info\\top_level.txt',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath-1.4.1.dist-info\\top_level.txt',
+   'DATA'),
+  ('mpmath-1.4.1.dist-info\\zip-safe',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath-1.4.1.dist-info\\zip-safe',
+   'DATA'),
+  ('mpmath\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\__init__.py',
+   'DATA'),
+  ('mpmath\\__main__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\__main__.py',
+   'DATA'),
+  ('mpmath\\_interactive.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\_interactive.py',
+   'DATA'),
+  ('mpmath\\_version.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\_version.py',
+   'DATA'),
+  ('mpmath\\calculus\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\__init__.py',
+   'DATA'),
+  ('mpmath\\calculus\\approximation.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\approximation.py',
+   'DATA'),
+  ('mpmath\\calculus\\calculus.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\calculus.py',
+   'DATA'),
+  ('mpmath\\calculus\\differentiation.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\differentiation.py',
+   'DATA'),
+  ('mpmath\\calculus\\extrapolation.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\extrapolation.py',
+   'DATA'),
+  ('mpmath\\calculus\\inverselaplace.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\inverselaplace.py',
+   'DATA'),
+  ('mpmath\\calculus\\odes.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\odes.py',
+   'DATA'),
+  ('mpmath\\calculus\\optimization.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\optimization.py',
+   'DATA'),
+  ('mpmath\\calculus\\polynomials.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\polynomials.py',
+   'DATA'),
+  ('mpmath\\calculus\\quadrature.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\calculus\\quadrature.py',
+   'DATA'),
+  ('mpmath\\ctx_base.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\ctx_base.py',
+   'DATA'),
+  ('mpmath\\ctx_fp.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\ctx_fp.py',
+   'DATA'),
+  ('mpmath\\ctx_iv.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\ctx_iv.py',
+   'DATA'),
+  ('mpmath\\ctx_mp.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\ctx_mp.py',
+   'DATA'),
+  ('mpmath\\ctx_mp_python.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\ctx_mp_python.py',
+   'DATA'),
+  ('mpmath\\function_docs.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\function_docs.py',
+   'DATA'),
+  ('mpmath\\functions\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\__init__.py',
+   'DATA'),
+  ('mpmath\\functions\\bessel.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\bessel.py',
+   'DATA'),
+  ('mpmath\\functions\\elliptic.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\elliptic.py',
+   'DATA'),
+  ('mpmath\\functions\\expintegrals.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\expintegrals.py',
+   'DATA'),
+  ('mpmath\\functions\\factorials.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\factorials.py',
+   'DATA'),
+  ('mpmath\\functions\\functions.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\functions.py',
+   'DATA'),
+  ('mpmath\\functions\\hypergeometric.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\hypergeometric.py',
+   'DATA'),
+  ('mpmath\\functions\\orthogonal.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\orthogonal.py',
+   'DATA'),
+  ('mpmath\\functions\\qfunctions.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\qfunctions.py',
+   'DATA'),
+  ('mpmath\\functions\\rszeta.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\rszeta.py',
+   'DATA'),
+  ('mpmath\\functions\\signals.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\signals.py',
+   'DATA'),
+  ('mpmath\\functions\\theta.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\theta.py',
+   'DATA'),
+  ('mpmath\\functions\\zeta.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\zeta.py',
+   'DATA'),
+  ('mpmath\\functions\\zetazeros.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\functions\\zetazeros.py',
+   'DATA'),
+  ('mpmath\\identification.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\identification.py',
+   'DATA'),
+  ('mpmath\\libfp.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\libfp.py',
+   'DATA'),
+  ('mpmath\\libmp\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\__init__.py',
+   'DATA'),
+  ('mpmath\\libmp\\backend.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\backend.py',
+   'DATA'),
+  ('mpmath\\libmp\\gammazeta.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\gammazeta.py',
+   'DATA'),
+  ('mpmath\\libmp\\libelefun.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\libelefun.py',
+   'DATA'),
+  ('mpmath\\libmp\\libhyper.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\libhyper.py',
+   'DATA'),
+  ('mpmath\\libmp\\libintmath.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\libintmath.py',
+   'DATA'),
+  ('mpmath\\libmp\\libmpc.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\libmpc.py',
+   'DATA'),
+  ('mpmath\\libmp\\libmpf.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\libmpf.py',
+   'DATA'),
+  ('mpmath\\libmp\\libmpi.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\libmp\\libmpi.py',
+   'DATA'),
+  ('mpmath\\math2.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\math2.py',
+   'DATA'),
+  ('mpmath\\matrices\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\matrices\\__init__.py',
+   'DATA'),
+  ('mpmath\\matrices\\calculus.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\matrices\\calculus.py',
+   'DATA'),
+  ('mpmath\\matrices\\eigen.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\matrices\\eigen.py',
+   'DATA'),
+  ('mpmath\\matrices\\eigen_symmetric.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\matrices\\eigen_symmetric.py',
+   'DATA'),
+  ('mpmath\\matrices\\linalg.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\matrices\\linalg.py',
+   'DATA'),
+  ('mpmath\\matrices\\matrices.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\matrices\\matrices.py',
+   'DATA'),
+  ('mpmath\\rational.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\rational.py',
+   'DATA'),
+  ('mpmath\\tests\\test_basic_ops.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_basic_ops.py',
+   'DATA'),
+  ('mpmath\\tests\\test_bitwise.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_bitwise.py',
+   'DATA'),
+  ('mpmath\\tests\\test_calculus.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_calculus.py',
+   'DATA'),
+  ('mpmath\\tests\\test_cli.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_cli.py',
+   'DATA'),
+  ('mpmath\\tests\\test_compatibility.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_compatibility.py',
+   'DATA'),
+  ('mpmath\\tests\\test_convert.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_convert.py',
+   'DATA'),
+  ('mpmath\\tests\\test_demos.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_demos.py',
+   'DATA'),
+  ('mpmath\\tests\\test_diff.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_diff.py',
+   'DATA'),
+  ('mpmath\\tests\\test_division.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_division.py',
+   'DATA'),
+  ('mpmath\\tests\\test_eigen.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_eigen.py',
+   'DATA'),
+  ('mpmath\\tests\\test_eigen_symmetric.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_eigen_symmetric.py',
+   'DATA'),
+  ('mpmath\\tests\\test_elliptic.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_elliptic.py',
+   'DATA'),
+  ('mpmath\\tests\\test_extra_gamma.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_extra_gamma.py',
+   'DATA'),
+  ('mpmath\\tests\\test_extra_zeta.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_extra_zeta.py',
+   'DATA'),
+  ('mpmath\\tests\\test_format.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_format.py',
+   'DATA'),
+  ('mpmath\\tests\\test_fp.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_fp.py',
+   'DATA'),
+  ('mpmath\\tests\\test_functions.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_functions.py',
+   'DATA'),
+  ('mpmath\\tests\\test_functions2.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_functions2.py',
+   'DATA'),
+  ('mpmath\\tests\\test_gammazeta.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_gammazeta.py',
+   'DATA'),
+  ('mpmath\\tests\\test_hp.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_hp.py',
+   'DATA'),
+  ('mpmath\\tests\\test_identify.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_identify.py',
+   'DATA'),
+  ('mpmath\\tests\\test_interval.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_interval.py',
+   'DATA'),
+  ('mpmath\\tests\\test_levin.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_levin.py',
+   'DATA'),
+  ('mpmath\\tests\\test_linalg.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_linalg.py',
+   'DATA'),
+  ('mpmath\\tests\\test_matrices.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_matrices.py',
+   'DATA'),
+  ('mpmath\\tests\\test_module.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_module.py',
+   'DATA'),
+  ('mpmath\\tests\\test_mpmath.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_mpmath.py',
+   'DATA'),
+  ('mpmath\\tests\\test_ode.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_ode.py',
+   'DATA'),
+  ('mpmath\\tests\\test_pickle.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_pickle.py',
+   'DATA'),
+  ('mpmath\\tests\\test_power.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_power.py',
+   'DATA'),
+  ('mpmath\\tests\\test_quad.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_quad.py',
+   'DATA'),
+  ('mpmath\\tests\\test_rootfinding.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_rootfinding.py',
+   'DATA'),
+  ('mpmath\\tests\\test_special.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_special.py',
+   'DATA'),
+  ('mpmath\\tests\\test_str.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_str.py',
+   'DATA'),
+  ('mpmath\\tests\\test_summation.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_summation.py',
+   'DATA'),
+  ('mpmath\\tests\\test_torture.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_torture.py',
+   'DATA'),
+  ('mpmath\\tests\\test_trig.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_trig.py',
+   'DATA'),
+  ('mpmath\\tests\\test_version_frozen.sh',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_version_frozen.sh',
+   'DATA'),
+  ('mpmath\\tests\\test_visualization.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\tests\\test_visualization.py',
+   'DATA'),
+  ('mpmath\\usertools.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\usertools.py',
+   'DATA'),
+  ('mpmath\\visualization.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\mpmath\\visualization.py',
+   'DATA'),
+  ('pyfiglet-1.0.4.dist-info\\INSTALLER',
    'C:\\Users\\rishi\\Documents\\pi '
    'splicer\\venv\\Lib\\site-packages\\pyfiglet-1.0.4.dist-info\\INSTALLER',
    'DATA'),
@@ -8311,17 +9330,77 @@
   ('base_library.zip',
    'C:\\Users\\rishi\\Documents\\pi splicer\\build\\main\\base_library.zip',
    'DATA')],
- [('abc',
+ [('types',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\types.py',
+   'PYMODULE'),
+  ('abc',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\abc.py',
    'PYMODULE'),
-  ('warnings',
+  ('codecs',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\warnings.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\codecs.py',
+   'PYMODULE'),
+  ('copyreg',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\copyreg.py',
+   'PYMODULE'),
+  ('collections',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\collections\\__init__.py',
+   'PYMODULE'),
+  ('genericpath',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\genericpath.py',
+   'PYMODULE'),
+  ('traceback',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\traceback.py',
+   'PYMODULE'),
+  ('io',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\io.py',
+   'PYMODULE'),
+  ('os',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\os.py',
+   'PYMODULE'),
+  ('weakref',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\weakref.py',
+   'PYMODULE'),
+  ('posixpath',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\posixpath.py',
+   'PYMODULE'),
+  ('heapq',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\heapq.py',
+   'PYMODULE'),
+  ('_collections_abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_collections_abc.py',
+   'PYMODULE'),
+  ('operator',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\operator.py',
+   'PYMODULE'),
+  ('functools',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\functools.py',
+   'PYMODULE'),
+  ('linecache',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\linecache.py',
    'PYMODULE'),
   ('sre_compile',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\sre_compile.py',
+   'PYMODULE'),
+  ('enum',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\enum.py',
    'PYMODULE'),
   ('re._parser',
    'C:\\Program '
@@ -8343,97 +9422,9 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\re\\__init__.py',
    'PYMODULE'),
-  ('locale',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\locale.py',
-   'PYMODULE'),
-  ('sre_constants',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\sre_constants.py',
-   'PYMODULE'),
-  ('weakref',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\weakref.py',
-   'PYMODULE'),
-  ('_collections_abc',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_collections_abc.py',
-   'PYMODULE'),
-  ('traceback',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\traceback.py',
-   'PYMODULE'),
   ('sre_parse',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\sre_parse.py',
-   'PYMODULE'),
-  ('linecache',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\linecache.py',
-   'PYMODULE'),
-  ('reprlib',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\reprlib.py',
-   'PYMODULE'),
-  ('codecs',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\codecs.py',
-   'PYMODULE'),
-  ('functools',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\functools.py',
-   'PYMODULE'),
-  ('enum',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\enum.py',
-   'PYMODULE'),
-  ('operator',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\operator.py',
-   'PYMODULE'),
-  ('genericpath',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\genericpath.py',
-   'PYMODULE'),
-  ('keyword',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\keyword.py',
-   'PYMODULE'),
-  ('os',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\os.py',
-   'PYMODULE'),
-  ('io',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\io.py',
-   'PYMODULE'),
-  ('_weakrefset',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_weakrefset.py',
-   'PYMODULE'),
-  ('copyreg',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\copyreg.py',
-   'PYMODULE'),
-  ('types',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\types.py',
-   'PYMODULE'),
-  ('posixpath',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\posixpath.py',
-   'PYMODULE'),
-  ('heapq',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\heapq.py',
-   'PYMODULE'),
-  ('ntpath',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ntpath.py',
-   'PYMODULE'),
-  ('collections',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\collections\\__init__.py',
    'PYMODULE'),
   ('stat',
    'C:\\Program '
@@ -8926,4 +9917,32 @@
   ('encodings',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\__init__.py',
+   'PYMODULE'),
+  ('keyword',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\keyword.py',
+   'PYMODULE'),
+  ('warnings',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\warnings.py',
+   'PYMODULE'),
+  ('ntpath',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ntpath.py',
+   'PYMODULE'),
+  ('reprlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\reprlib.py',
+   'PYMODULE'),
+  ('_weakrefset',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_weakrefset.py',
+   'PYMODULE'),
+  ('locale',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\locale.py',
+   'PYMODULE'),
+  ('sre_constants',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\sre_constants.py',
    'PYMODULE')])
