@@ -8,6 +8,7 @@ import random
 from rich.progress import Progress
 from plyer import notification
 from win11toast import toast
+import winsound
 ## libraries
 
 init(autoreset=True)
@@ -31,6 +32,8 @@ def search(final, maxsearch):
 
     if len(search_term) > int(maxsearch):
         print(f"\n{Fore.RED}{Style.BRIGHT}too long of a search, will take years to finish")
+        winsound.Beep(frequency=500, duration=200)
+        winsound.Beep(frequency=700, duration=300)
         return
 
     index_position = final.find(search_term)
@@ -40,6 +43,8 @@ def search(final, maxsearch):
             "Please increase pidigits to find it! "
             "(WARNING: this may take a long time.)"
         )
+        winsound.Beep(frequency=600, duration=300)
+        winsound.Beep(frequency=500, duration=400)
         print(
             f"\n{Fore.RED}{Style.DIM}{message}"
         )
@@ -58,6 +63,8 @@ def search(final, maxsearch):
         message = f"We found the phrase at {index_position}",
         timeout = 0.01,
     )
+    winsound.Beep(frequency=1050, duration=300)
+    winsound.Beep(frequency=1300, duration=400)
 
     print(f"\ntranslating... {final[start:end]}...")
     print(f"\nwe found {config.search}")
