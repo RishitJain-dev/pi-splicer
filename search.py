@@ -6,11 +6,13 @@ import time
 from colorama import Fore, Style, init
 import random
 from rich.progress import Progress
+from plyer import notification
+from win11toast import toast
 ## libraries
 
 init(autoreset=True)
 
-spinners = ["▖", "▘", "▝", "▗"] # depreciated
+spinners = ["▖", "▘", "▝", "▗"] # depreciated, it was giving issues with being on the same line so now pifinding and translating no longer has a loading bar, only the search function does.
 randomload = random.randint(1, 5)
 
 
@@ -33,13 +35,29 @@ def search(final, maxsearch):
 
     index_position = final.find(search_term)
     if index_position == -1:
+        message = (
+            f"{config.search} is not in these digits of pi. "
+            "Please increase pidigits to find it! "
+            "(WARNING: this may take a long time.)"
+        )
         print(
-            f"\n{Fore.RED}{Style.DIM}{config.search} is not in these digits of pi. please increase the pidigits to find it! (WARNING: THIS WILL TAKE A LONG TIME, POSSIBLY OVER 10 HOURS)"
+            f"\n{Fore.RED}{Style.DIM}{message}"
+        )
+        notification.notify(
+            title="Pi Splicer Results :(",
+            message=message,
+            timeout=0.01,
         )
         return
 
     start = max(0, index_position - 5)
     end = min(len(final), index_position + len(search_term) + 5)
+
+    notification.notify(
+        title = "Pi Splicer Results!",
+        message = f"We found the phrase at {index_position}",
+        timeout = 0.01,
+    )
 
     print(f"\ntranslating... {final[start:end]}...")
     print(f"\nwe found {config.search}")
