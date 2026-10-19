@@ -44,6 +44,10 @@
    'C:\\Users\\rishi\\Documents\\pi '
    'splicer\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
    'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
   ('pyi_rth_multiprocessing',
    'C:\\Users\\rishi\\Documents\\pi '
    'splicer\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
@@ -103,9 +107,21 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_queue.pyd',
    'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
   ('_wmi.pyd',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_wmi.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_uuid.pyd',
    'EXTENSION'),
   ('winsound.pyd',
    'C:\\Program '
@@ -122,10 +138,6 @@
   ('winrt\\_winrt.cp313-win_amd64.pyd',
    'C:\\Users\\rishi\\Documents\\pi '
    'splicer\\venv\\Lib\\site-packages\\winrt\\_winrt.cp313-win_amd64.pyd',
-   'EXTENSION'),
-  ('_uuid.pyd',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_uuid.pyd',
    'EXTENSION'),
   ('winrt\\_winrt_windows_storage_streams.cp313-win_amd64.pyd',
    'C:\\Users\\rishi\\Documents\\pi '
@@ -166,14 +178,6 @@
   ('winrt\\_winrt_windows_data_xml_dom.cp313-win_amd64.pyd',
    'C:\\Users\\rishi\\Documents\\pi '
    'splicer\\venv\\Lib\\site-packages\\winrt\\_winrt_windows_data_xml_dom.cp313-win_amd64.pyd',
-   'EXTENSION'),
-  ('_overlapped.pyd',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_overlapped.pyd',
-   'EXTENSION'),
-  ('_asyncio.pyd',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_asyncio.pyd',
    'EXTENSION'),
   ('VCRUNTIME140.dll',
    'C:\\Program '
@@ -606,6 +610,622 @@
   ('mpmath\\visualization.py',
    'C:\\Users\\rishi\\Documents\\pi '
    'splicer\\venv\\Lib\\site-packages\\mpmath\\visualization.py',
+   'DATA'),
+  ('plyer-2.1.0.dist-info\\INSTALLER',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer-2.1.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('plyer-2.1.0.dist-info\\LICENSE',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer-2.1.0.dist-info\\LICENSE',
+   'DATA'),
+  ('plyer-2.1.0.dist-info\\METADATA',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer-2.1.0.dist-info\\METADATA',
+   'DATA'),
+  ('plyer-2.1.0.dist-info\\RECORD',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer-2.1.0.dist-info\\RECORD',
+   'DATA'),
+  ('plyer-2.1.0.dist-info\\REQUESTED',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer-2.1.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('plyer-2.1.0.dist-info\\WHEEL',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer-2.1.0.dist-info\\WHEEL',
+   'DATA'),
+  ('plyer-2.1.0.dist-info\\top_level.txt',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer-2.1.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('plyer\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\__init__.py',
+   'DATA'),
+  ('plyer\\facades\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\__init__.py',
+   'DATA'),
+  ('plyer\\facades\\accelerometer.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\accelerometer.py',
+   'DATA'),
+  ('plyer\\facades\\audio.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\audio.py',
+   'DATA'),
+  ('plyer\\facades\\barometer.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\barometer.py',
+   'DATA'),
+  ('plyer\\facades\\battery.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\battery.py',
+   'DATA'),
+  ('plyer\\facades\\bluetooth.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\bluetooth.py',
+   'DATA'),
+  ('plyer\\facades\\brightness.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\brightness.py',
+   'DATA'),
+  ('plyer\\facades\\call.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\call.py',
+   'DATA'),
+  ('plyer\\facades\\camera.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\camera.py',
+   'DATA'),
+  ('plyer\\facades\\compass.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\compass.py',
+   'DATA'),
+  ('plyer\\facades\\cpu.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\cpu.py',
+   'DATA'),
+  ('plyer\\facades\\devicename.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\devicename.py',
+   'DATA'),
+  ('plyer\\facades\\email.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\email.py',
+   'DATA'),
+  ('plyer\\facades\\filechooser.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\filechooser.py',
+   'DATA'),
+  ('plyer\\facades\\flash.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\flash.py',
+   'DATA'),
+  ('plyer\\facades\\gps.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\gps.py',
+   'DATA'),
+  ('plyer\\facades\\gravity.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\gravity.py',
+   'DATA'),
+  ('plyer\\facades\\gyroscope.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\gyroscope.py',
+   'DATA'),
+  ('plyer\\facades\\humidity.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\humidity.py',
+   'DATA'),
+  ('plyer\\facades\\irblaster.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\irblaster.py',
+   'DATA'),
+  ('plyer\\facades\\keystore.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\keystore.py',
+   'DATA'),
+  ('plyer\\facades\\light.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\light.py',
+   'DATA'),
+  ('plyer\\facades\\notification.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\notification.py',
+   'DATA'),
+  ('plyer\\facades\\orientation.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\orientation.py',
+   'DATA'),
+  ('plyer\\facades\\processors.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\processors.py',
+   'DATA'),
+  ('plyer\\facades\\proximity.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\proximity.py',
+   'DATA'),
+  ('plyer\\facades\\screenshot.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\screenshot.py',
+   'DATA'),
+  ('plyer\\facades\\sms.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\sms.py',
+   'DATA'),
+  ('plyer\\facades\\spatialorientation.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\spatialorientation.py',
+   'DATA'),
+  ('plyer\\facades\\storagepath.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\storagepath.py',
+   'DATA'),
+  ('plyer\\facades\\stt.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\stt.py',
+   'DATA'),
+  ('plyer\\facades\\temperature.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\temperature.py',
+   'DATA'),
+  ('plyer\\facades\\tts.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\tts.py',
+   'DATA'),
+  ('plyer\\facades\\uniqueid.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\uniqueid.py',
+   'DATA'),
+  ('plyer\\facades\\vibrator.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\vibrator.py',
+   'DATA'),
+  ('plyer\\facades\\wifi.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\wifi.py',
+   'DATA'),
+  ('plyer\\platforms\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\__init__.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\__init__.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\accelerometer.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\accelerometer.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\audio.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\audio.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\barometer.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\barometer.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\battery.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\battery.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\bluetooth.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\bluetooth.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\brightness.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\brightness.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\call.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\call.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\camera.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\camera.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\compass.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\compass.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\devicename.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\devicename.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\email.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\email.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\filechooser.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\filechooser.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\flash.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\flash.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\gps.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\gps.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\gravity.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\gravity.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\gyroscope.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\gyroscope.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\humidity.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\humidity.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\irblaster.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\irblaster.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\keystore.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\keystore.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\light.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\light.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\notification.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\notification.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\orientation.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\orientation.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\proximity.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\proximity.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\sms.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\sms.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\spatialorientation.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\spatialorientation.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\storagepath.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\storagepath.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\stt.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\stt.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\temperature.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\temperature.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\tts.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\tts.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\uniqueid.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\uniqueid.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\vibrator.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\vibrator.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\__init__.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\accelerometer.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\accelerometer.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\barometer.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\barometer.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\battery.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\battery.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\brightness.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\brightness.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\call.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\call.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\camera.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\camera.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\compass.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\compass.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\email.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\email.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\filechooser.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\filechooser.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\flash.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\flash.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\gps.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\gps.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\gravity.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\gravity.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\gyroscope.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\gyroscope.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\keystore.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\keystore.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\sms.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\sms.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\spatialorientation.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\spatialorientation.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\storagepath.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\storagepath.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\tts.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\tts.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\uniqueid.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\uniqueid.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\vibrator.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\vibrator.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\__init__.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\accelerometer.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\accelerometer.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\battery.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\battery.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\brightness.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\brightness.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\cpu.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\cpu.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\devicename.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\devicename.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\email.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\email.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\filechooser.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\filechooser.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\keystore.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\keystore.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\notification.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\notification.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\orientation.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\orientation.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\processors.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\processors.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\screenshot.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\screenshot.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\storagepath.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\storagepath.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\tts.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\tts.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\uniqueid.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\uniqueid.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\wifi.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\wifi.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\__init__.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\accelerometer.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\accelerometer.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\audio.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\audio.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\battery.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\battery.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\bluetooth.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\bluetooth.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\cpu.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\cpu.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\devicename.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\devicename.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\email.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\email.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\filechooser.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\filechooser.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\keystore.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\keystore.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\libs\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\libs\\__init__.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\libs\\osx_motion_sensor.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\libs\\osx_motion_sensor.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\libs\\osx_paths.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\libs\\osx_paths.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\notification.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\notification.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\screenshot.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\screenshot.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\storagepath.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\storagepath.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\tts.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\tts.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\uniqueid.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\uniqueid.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\wifi.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\wifi.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\__init__.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\audio.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\audio.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\battery.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\battery.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\cpu.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\cpu.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\devicename.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\devicename.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\email.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\email.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\filechooser.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\filechooser.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\keystore.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\keystore.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\libs\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\libs\\__init__.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\libs\\balloontip.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\libs\\balloontip.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\libs\\batterystatus.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\libs\\batterystatus.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\libs\\wifi_defs.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\libs\\wifi_defs.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\libs\\win_api_defs.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\libs\\win_api_defs.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\notification.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\notification.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\screenshot.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\screenshot.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\storagepath.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\storagepath.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\tts.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\tts.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\uniqueid.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\uniqueid.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\wifi.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\wifi.py',
+   'DATA'),
+  ('plyer\\utils.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\utils.py',
    'DATA'),
   ('pyfiglet-1.0.4.dist-info\\INSTALLER',
    'C:\\Users\\rishi\\Documents\\pi '
@@ -2962,6 +3582,11 @@
   ('pyfiglet\\version.py',
    'C:\\Users\\rishi\\Documents\\pi '
    'splicer\\venv\\Lib\\site-packages\\pyfiglet\\version.py',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco\\text\\Lorem ipsum.txt',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\Lorem '
+   'ipsum.txt',
    'DATA'),
   ('base_library.zip',
    'C:\\Users\\rishi\\Documents\\pi splicer\\build\\main\\base_library.zip',

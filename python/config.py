@@ -8,7 +8,7 @@ init(autoreset=True)
 
 # define all variables and globals for all other files
 
-pidigits = 1000000
+pidigits = int(input("10-1000000 (number of digits of pi)"))
 ## uses 1 million digits of pi
 includeasci = False
 ## (depreciated) chooses whether you can use characters other than space and the alphabet, eg. '^', '#','$'

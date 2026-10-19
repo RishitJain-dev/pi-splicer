@@ -1,11 +1,126 @@
 (['C:\\Users\\rishi\\Documents\\pi splicer\\python\\main.py'],
  ['C:\\Users\\rishi\\Documents\\pi splicer\\python'],
- ['mpmath.libmp._pylong',
+ ['_pylong',
   'pyfiglet',
   'pyfiglet.__main__',
   'pyfiglet.fonts',
   'pyfiglet.test',
   'pyfiglet.version',
+  'plyer',
+  'plyer.facades',
+  'plyer.facades.accelerometer',
+  'plyer.facades.audio',
+  'plyer.facades.barometer',
+  'plyer.facades.battery',
+  'plyer.facades.bluetooth',
+  'plyer.facades.brightness',
+  'plyer.facades.call',
+  'plyer.facades.camera',
+  'plyer.facades.compass',
+  'plyer.facades.cpu',
+  'plyer.facades.devicename',
+  'plyer.facades.email',
+  'plyer.facades.filechooser',
+  'plyer.facades.flash',
+  'plyer.facades.gps',
+  'plyer.facades.gravity',
+  'plyer.facades.gyroscope',
+  'plyer.facades.humidity',
+  'plyer.facades.irblaster',
+  'plyer.facades.keystore',
+  'plyer.facades.light',
+  'plyer.facades.notification',
+  'plyer.facades.orientation',
+  'plyer.facades.processors',
+  'plyer.facades.proximity',
+  'plyer.facades.screenshot',
+  'plyer.facades.sms',
+  'plyer.facades.spatialorientation',
+  'plyer.facades.storagepath',
+  'plyer.facades.stt',
+  'plyer.facades.temperature',
+  'plyer.facades.tts',
+  'plyer.facades.uniqueid',
+  'plyer.facades.vibrator',
+  'plyer.facades.wifi',
+  'plyer.platforms',
+  'plyer.platforms.ios',
+  'plyer.platforms.ios.accelerometer',
+  'plyer.platforms.ios.barometer',
+  'plyer.platforms.ios.battery',
+  'plyer.platforms.ios.brightness',
+  'plyer.platforms.ios.call',
+  'plyer.platforms.ios.camera',
+  'plyer.platforms.ios.compass',
+  'plyer.platforms.ios.email',
+  'plyer.platforms.ios.filechooser',
+  'plyer.platforms.ios.flash',
+  'plyer.platforms.ios.gps',
+  'plyer.platforms.ios.gravity',
+  'plyer.platforms.ios.gyroscope',
+  'plyer.platforms.ios.keystore',
+  'plyer.platforms.ios.sms',
+  'plyer.platforms.ios.spatialorientation',
+  'plyer.platforms.ios.storagepath',
+  'plyer.platforms.ios.tts',
+  'plyer.platforms.ios.uniqueid',
+  'plyer.platforms.ios.vibrator',
+  'plyer.platforms.linux',
+  'plyer.platforms.linux.accelerometer',
+  'plyer.platforms.linux.battery',
+  'plyer.platforms.linux.brightness',
+  'plyer.platforms.linux.cpu',
+  'plyer.platforms.linux.devicename',
+  'plyer.platforms.linux.email',
+  'plyer.platforms.linux.filechooser',
+  'plyer.platforms.linux.keystore',
+  'plyer.platforms.linux.notification',
+  'plyer.platforms.linux.orientation',
+  'plyer.platforms.linux.processors',
+  'plyer.platforms.linux.screenshot',
+  'plyer.platforms.linux.storagepath',
+  'plyer.platforms.linux.tts',
+  'plyer.platforms.linux.uniqueid',
+  'plyer.platforms.linux.wifi',
+  'plyer.platforms.macosx',
+  'plyer.platforms.macosx.accelerometer',
+  'plyer.platforms.macosx.audio',
+  'plyer.platforms.macosx.battery',
+  'plyer.platforms.macosx.bluetooth',
+  'plyer.platforms.macosx.cpu',
+  'plyer.platforms.macosx.devicename',
+  'plyer.platforms.macosx.email',
+  'plyer.platforms.macosx.filechooser',
+  'plyer.platforms.macosx.keystore',
+  'plyer.platforms.macosx.libs',
+  'plyer.platforms.macosx.libs.osx_motion_sensor',
+  'plyer.platforms.macosx.libs.osx_paths',
+  'plyer.platforms.macosx.notification',
+  'plyer.platforms.macosx.screenshot',
+  'plyer.platforms.macosx.storagepath',
+  'plyer.platforms.macosx.tts',
+  'plyer.platforms.macosx.uniqueid',
+  'plyer.platforms.macosx.wifi',
+  'plyer.platforms.win',
+  'plyer.platforms.win.audio',
+  'plyer.platforms.win.battery',
+  'plyer.platforms.win.cpu',
+  'plyer.platforms.win.devicename',
+  'plyer.platforms.win.email',
+  'plyer.platforms.win.filechooser',
+  'plyer.platforms.win.keystore',
+  'plyer.platforms.win.libs',
+  'plyer.platforms.win.libs.balloontip',
+  'plyer.platforms.win.libs.batterystatus',
+  'plyer.platforms.win.libs.wifi_defs',
+  'plyer.platforms.win.libs.win_api_defs',
+  'plyer.platforms.win.notification',
+  'plyer.platforms.win.screenshot',
+  'plyer.platforms.win.storagepath',
+  'plyer.platforms.win.tts',
+  'plyer.platforms.win.uniqueid',
+  'plyer.platforms.win.wifi',
+  'plyer.utils',
   'mpmath',
   'mpmath.__main__',
   'mpmath._interactive',
@@ -481,6 +596,622 @@
   ('mpmath\\visualization.py',
    'C:\\Users\\rishi\\Documents\\pi '
    'splicer\\venv\\Lib\\site-packages\\mpmath\\visualization.py',
+   'DATA'),
+  ('plyer-2.1.0.dist-info\\INSTALLER',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer-2.1.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('plyer-2.1.0.dist-info\\LICENSE',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer-2.1.0.dist-info\\LICENSE',
+   'DATA'),
+  ('plyer-2.1.0.dist-info\\METADATA',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer-2.1.0.dist-info\\METADATA',
+   'DATA'),
+  ('plyer-2.1.0.dist-info\\RECORD',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer-2.1.0.dist-info\\RECORD',
+   'DATA'),
+  ('plyer-2.1.0.dist-info\\REQUESTED',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer-2.1.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('plyer-2.1.0.dist-info\\WHEEL',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer-2.1.0.dist-info\\WHEEL',
+   'DATA'),
+  ('plyer-2.1.0.dist-info\\top_level.txt',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer-2.1.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('plyer\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\__init__.py',
+   'DATA'),
+  ('plyer\\facades\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\__init__.py',
+   'DATA'),
+  ('plyer\\facades\\accelerometer.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\accelerometer.py',
+   'DATA'),
+  ('plyer\\facades\\audio.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\audio.py',
+   'DATA'),
+  ('plyer\\facades\\barometer.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\barometer.py',
+   'DATA'),
+  ('plyer\\facades\\battery.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\battery.py',
+   'DATA'),
+  ('plyer\\facades\\bluetooth.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\bluetooth.py',
+   'DATA'),
+  ('plyer\\facades\\brightness.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\brightness.py',
+   'DATA'),
+  ('plyer\\facades\\call.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\call.py',
+   'DATA'),
+  ('plyer\\facades\\camera.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\camera.py',
+   'DATA'),
+  ('plyer\\facades\\compass.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\compass.py',
+   'DATA'),
+  ('plyer\\facades\\cpu.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\cpu.py',
+   'DATA'),
+  ('plyer\\facades\\devicename.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\devicename.py',
+   'DATA'),
+  ('plyer\\facades\\email.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\email.py',
+   'DATA'),
+  ('plyer\\facades\\filechooser.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\filechooser.py',
+   'DATA'),
+  ('plyer\\facades\\flash.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\flash.py',
+   'DATA'),
+  ('plyer\\facades\\gps.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\gps.py',
+   'DATA'),
+  ('plyer\\facades\\gravity.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\gravity.py',
+   'DATA'),
+  ('plyer\\facades\\gyroscope.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\gyroscope.py',
+   'DATA'),
+  ('plyer\\facades\\humidity.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\humidity.py',
+   'DATA'),
+  ('plyer\\facades\\irblaster.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\irblaster.py',
+   'DATA'),
+  ('plyer\\facades\\keystore.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\keystore.py',
+   'DATA'),
+  ('plyer\\facades\\light.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\light.py',
+   'DATA'),
+  ('plyer\\facades\\notification.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\notification.py',
+   'DATA'),
+  ('plyer\\facades\\orientation.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\orientation.py',
+   'DATA'),
+  ('plyer\\facades\\processors.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\processors.py',
+   'DATA'),
+  ('plyer\\facades\\proximity.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\proximity.py',
+   'DATA'),
+  ('plyer\\facades\\screenshot.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\screenshot.py',
+   'DATA'),
+  ('plyer\\facades\\sms.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\sms.py',
+   'DATA'),
+  ('plyer\\facades\\spatialorientation.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\spatialorientation.py',
+   'DATA'),
+  ('plyer\\facades\\storagepath.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\storagepath.py',
+   'DATA'),
+  ('plyer\\facades\\stt.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\stt.py',
+   'DATA'),
+  ('plyer\\facades\\temperature.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\temperature.py',
+   'DATA'),
+  ('plyer\\facades\\tts.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\tts.py',
+   'DATA'),
+  ('plyer\\facades\\uniqueid.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\uniqueid.py',
+   'DATA'),
+  ('plyer\\facades\\vibrator.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\vibrator.py',
+   'DATA'),
+  ('plyer\\facades\\wifi.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\wifi.py',
+   'DATA'),
+  ('plyer\\platforms\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\__init__.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\__init__.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\accelerometer.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\accelerometer.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\audio.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\audio.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\barometer.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\barometer.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\battery.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\battery.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\bluetooth.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\bluetooth.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\brightness.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\brightness.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\call.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\call.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\camera.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\camera.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\compass.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\compass.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\devicename.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\devicename.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\email.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\email.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\filechooser.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\filechooser.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\flash.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\flash.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\gps.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\gps.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\gravity.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\gravity.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\gyroscope.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\gyroscope.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\humidity.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\humidity.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\irblaster.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\irblaster.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\keystore.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\keystore.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\light.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\light.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\notification.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\notification.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\orientation.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\orientation.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\proximity.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\proximity.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\sms.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\sms.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\spatialorientation.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\spatialorientation.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\storagepath.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\storagepath.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\stt.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\stt.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\temperature.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\temperature.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\tts.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\tts.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\uniqueid.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\uniqueid.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\vibrator.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\vibrator.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\__init__.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\accelerometer.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\accelerometer.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\barometer.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\barometer.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\battery.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\battery.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\brightness.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\brightness.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\call.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\call.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\camera.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\camera.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\compass.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\compass.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\email.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\email.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\filechooser.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\filechooser.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\flash.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\flash.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\gps.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\gps.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\gravity.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\gravity.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\gyroscope.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\gyroscope.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\keystore.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\keystore.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\sms.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\sms.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\spatialorientation.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\spatialorientation.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\storagepath.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\storagepath.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\tts.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\tts.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\uniqueid.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\uniqueid.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\vibrator.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\vibrator.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\__init__.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\accelerometer.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\accelerometer.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\battery.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\battery.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\brightness.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\brightness.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\cpu.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\cpu.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\devicename.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\devicename.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\email.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\email.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\filechooser.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\filechooser.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\keystore.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\keystore.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\notification.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\notification.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\orientation.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\orientation.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\processors.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\processors.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\screenshot.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\screenshot.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\storagepath.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\storagepath.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\tts.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\tts.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\uniqueid.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\uniqueid.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\wifi.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\wifi.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\__init__.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\accelerometer.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\accelerometer.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\audio.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\audio.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\battery.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\battery.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\bluetooth.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\bluetooth.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\cpu.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\cpu.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\devicename.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\devicename.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\email.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\email.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\filechooser.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\filechooser.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\keystore.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\keystore.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\libs\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\libs\\__init__.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\libs\\osx_motion_sensor.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\libs\\osx_motion_sensor.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\libs\\osx_paths.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\libs\\osx_paths.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\notification.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\notification.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\screenshot.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\screenshot.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\storagepath.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\storagepath.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\tts.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\tts.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\uniqueid.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\uniqueid.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\wifi.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\wifi.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\__init__.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\audio.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\audio.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\battery.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\battery.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\cpu.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\cpu.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\devicename.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\devicename.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\email.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\email.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\filechooser.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\filechooser.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\keystore.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\keystore.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\libs\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\libs\\__init__.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\libs\\balloontip.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\libs\\balloontip.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\libs\\batterystatus.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\libs\\batterystatus.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\libs\\wifi_defs.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\libs\\wifi_defs.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\libs\\win_api_defs.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\libs\\win_api_defs.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\notification.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\notification.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\screenshot.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\screenshot.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\storagepath.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\storagepath.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\tts.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\tts.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\uniqueid.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\uniqueid.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\wifi.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\wifi.py',
+   'DATA'),
+  ('plyer\\utils.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\utils.py',
    'DATA'),
   ('pyfiglet-1.0.4.dist-info\\INSTALLER',
    'C:\\Users\\rishi\\Documents\\pi '
@@ -2848,6 +3579,10 @@
    'C:\\Users\\rishi\\Documents\\pi '
    'splicer\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
    'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
   ('pyi_rth_multiprocessing',
    'C:\\Users\\rishi\\Documents\\pi '
    'splicer\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
@@ -3519,6 +4254,959 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\__init__.py',
    'PYMODULE'),
+  ('_distutils_hack',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\_distutils_hack\\__init__.py',
+   'PYMODULE'),
+  ('setuptools',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\taskgroups.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.timeouts',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\timeouts.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('setuptools._distutils.errors',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.file_util',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\file_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils._modified',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\_modified.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.functools',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\functools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.text',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.context',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\context\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile.compat.py38',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\py38.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile.compat',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor', '-', 'PYMODULE'),
+  ('setuptools._vendor.jaraco', '-', 'PYMODULE'),
+  ('setuptools._distutils._log',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\_log.py',
+   'PYMODULE'),
+  ('setuptools._distutils.archive_util',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.spawn',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\spawn.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dir_util',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\dir_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.version',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\version.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.errors',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers', '-', 'PYMODULE'),
+  ('setuptools._distutils.compilers.C.errors',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C', '-', 'PYMODULE'),
+  ('setuptools._distutils.compilers.C.zos',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\zos.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.msvc',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\msvc.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.platform.detect',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\platform\\detect.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.platform', '-', 'PYMODULE'),
+  ('setuptools._distutils.compilers.platform.macos',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\platform\\macos.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_osx_support.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.logging',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\logging.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.cygwin',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\cygwin.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('packaging',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging.ranges',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\packaging\\ranges.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging._ranges',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\packaging\\_ranges.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\shlex.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.unix',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\unix.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers._modified',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\_modified.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.base',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\base.py',
+   'PYMODULE'),
+  ('setuptools._distutils.debug',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\debug.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers._util',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\_util.py',
+   'PYMODULE'),
+  ('setuptools.compat.py310',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\compat\\py310.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._parser',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._types',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_types.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._re',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_re.py',
+   'PYMODULE'),
+  ('tomllib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\tomllib\\__init__.py',
+   'PYMODULE'),
+  ('tomllib._parser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\tomllib\\_parser.py',
+   'PYMODULE'),
+  ('tomllib._types',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\tomllib\\_types.py',
+   'PYMODULE'),
+  ('tomllib._re',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\tomllib\\_re.py',
+   'PYMODULE'),
+  ('setuptools.compat',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.compat.py311',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\compat\\py311.py',
+   'PYMODULE'),
+  ('setuptools.compat.py39',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\compat\\py39.py',
+   'PYMODULE'),
+  ('setuptools._path',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_path.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.recipes',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.more',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\platform.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_ext',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils._msvccompiler',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.util',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.sysconfig',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('setuptools._distutils.text_file',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\text_file.py',
+   'PYMODULE'),
+  ('setuptools._distutils.extension',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\extension.py',
+   'PYMODULE'),
+  ('setuptools._distutils._dataclass',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\_dataclass.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat.py310',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\compat\\py310.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.core',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\core.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dist',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\dist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.versionpredicate',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\configparser.py',
+   'PYMODULE'),
+  ('setuptools._distutils.fancy_getopt',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('setuptools._distutils.cmd',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\cmd.py',
+   'PYMODULE'),
+  ('setuptools._distutils.ccompiler',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat.numpy',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\compat\\numpy.py',
+   'PYMODULE'),
+  ('site',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\site.py',
+   'PYMODULE'),
+  ('_pyrepl.main',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\main.py',
+   'PYMODULE'),
+  ('_pyrepl.console',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\console.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('_colorize',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_colorize.py',
+   'PYMODULE'),
+  ('_pyrepl.trace',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\trace.py',
+   'PYMODULE'),
+  ('_pyrepl.simple_interact',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\simple_interact.py',
+   'PYMODULE'),
+  ('_pyrepl',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\__init__.py',
+   'PYMODULE'),
+  ('_pyrepl.input',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\input.py',
+   'PYMODULE'),
+  ('_pyrepl.types',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\types.py',
+   'PYMODULE'),
+  ('_pyrepl.commands',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\commands.py',
+   'PYMODULE'),
+  ('_pyrepl.pager',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\pager.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\tty.py',
+   'PYMODULE'),
+  ('_pyrepl.historical_reader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\historical_reader.py',
+   'PYMODULE'),
+  ('_pyrepl.reader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\reader.py',
+   'PYMODULE'),
+  ('_pyrepl._threading_handler',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\_threading_handler.py',
+   'PYMODULE'),
+  ('_pyrepl.utils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\utils.py',
+   'PYMODULE'),
+  ('_pyrepl.curses',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\curses.py',
+   'PYMODULE'),
+  ('curses',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\curses\\__init__.py',
+   'PYMODULE'),
+  ('curses.has_key',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\curses\\has_key.py',
+   'PYMODULE'),
+  ('_pyrepl._minimal_curses',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\_minimal_curses.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('_pyrepl.keymap',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\keymap.py',
+   'PYMODULE'),
+  ('_pyrepl.unix_console',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\unix_console.py',
+   'PYMODULE'),
+  ('_pyrepl.unix_eventqueue',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\unix_eventqueue.py',
+   'PYMODULE'),
+  ('_pyrepl.base_eventqueue',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\base_eventqueue.py',
+   'PYMODULE'),
+  ('_pyrepl.fancy_termios',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\fancy_termios.py',
+   'PYMODULE'),
+  ('_pyrepl.windows_console',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\windows_console.py',
+   'PYMODULE'),
+  ('_pyrepl.windows_eventqueue',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\windows_eventqueue.py',
+   'PYMODULE'),
+  ('_pyrepl.readline',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\readline.py',
+   'PYMODULE'),
+  ('_pyrepl.completing_reader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\completing_reader.py',
+   'PYMODULE'),
+  ('rlcompleter',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\rlcompleter.py',
+   'PYMODULE'),
+  ('_sitebuiltins',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_sitebuiltins.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\webbrowser.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\http\\server.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\socketserver.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data.module_docs',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\pydoc_data\\module_docs.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.warnings',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\warnings.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools._importlib',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_importlib.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_wheel',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\command\\bdist_wheel.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.macosx_libfile',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\macosx_libfile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools._distutils.filelist',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\filelist.py',
+   'PYMODULE'),
+  ('setuptools.command._requirestxt',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\command\\_requirestxt.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.sdist',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.build',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.wheelfile',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\wheelfile.py',
+   'PYMODULE'),
+  ('setuptools.installer',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\installer.py',
+   'PYMODULE'),
+  ('setuptools.wheel',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\wheel.py',
+   'PYMODULE'),
+  ('setuptools._discovery',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_discovery.py',
+   'PYMODULE'),
+  ('setuptools.archive_util',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.log',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\log.py',
+   'PYMODULE'),
+  ('setuptools.errors',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\errors.py',
+   'PYMODULE'),
+  ('setuptools.config.setupcfg',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\config\\setupcfg.py',
+   'PYMODULE'),
+  ('setuptools.config.expand',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\config\\expand.py',
+   'PYMODULE'),
+  ('setuptools.config.pyprojecttoml',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\config\\pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_validations',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_exceptions',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_exceptions.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.extra_validations',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\extra_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.error_reporting',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\error_reporting.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.formats',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\formats.py',
+   'PYMODULE'),
+  ('packaging.licenses',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\packaging\\licenses\\__init__.py',
+   'PYMODULE'),
+  ('packaging.licenses._spdx',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\packaging\\licenses\\_spdx.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.requirements',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.utils',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._structures',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.tags',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._musllinux',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._elffile',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._manylinux',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._tokenizer',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._parser',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._apply_pyprojecttoml',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\config\\_apply_pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\config\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._static',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_static.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._shutil',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_shutil.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('setuptools._entry_points',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_entry_points.py',
+   'PYMODULE'),
+  ('setuptools._itertools',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools.discovery',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\discovery.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('setuptools._imp',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_imp.py',
+   'PYMODULE'),
+  ('setuptools.logging',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\logging.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('setuptools._core_metadata',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_core_metadata.py',
+   'PYMODULE'),
+  ('setuptools._reqs',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_reqs.py',
+   'PYMODULE'),
+  ('setuptools._normalization',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_normalization.py',
+   'PYMODULE'),
+  ('_distutils_hack.override',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\_distutils_hack\\override.py',
+   'PYMODULE'),
   ('mpmath.visualization',
    'C:\\Users\\rishi\\Documents\\pi '
    'splicer\\venv\\Lib\\site-packages\\mpmath\\visualization.py',
@@ -3743,209 +5431,473 @@
    'C:\\Users\\rishi\\Documents\\pi '
    'splicer\\venv\\Lib\\site-packages\\mpmath\\__main__.py',
    'PYMODULE'),
-  ('_pyrepl.simple_interact',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\simple_interact.py',
-   'PYMODULE'),
-  ('_pyrepl',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\__init__.py',
-   'PYMODULE'),
-  ('_pyrepl.input',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\input.py',
-   'PYMODULE'),
-  ('_pyrepl.types',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\types.py',
-   'PYMODULE'),
-  ('_pyrepl.commands',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\commands.py',
-   'PYMODULE'),
-  ('site',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\site.py',
-   'PYMODULE'),
-  ('_pyrepl.pager',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\pager.py',
-   'PYMODULE'),
-  ('tty',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\tty.py',
-   'PYMODULE'),
-  ('_pyrepl.historical_reader',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\historical_reader.py',
-   'PYMODULE'),
-  ('_pyrepl.reader',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\reader.py',
-   'PYMODULE'),
-  ('_pyrepl._threading_handler',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\_threading_handler.py',
-   'PYMODULE'),
-  ('_pyrepl.trace',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\trace.py',
-   'PYMODULE'),
-  ('_pyrepl.utils',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\utils.py',
-   'PYMODULE'),
-  ('_colorize',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_colorize.py',
-   'PYMODULE'),
-  ('_pyrepl.curses',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\curses.py',
-   'PYMODULE'),
-  ('curses',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\curses\\__init__.py',
-   'PYMODULE'),
-  ('curses.has_key',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\curses\\has_key.py',
-   'PYMODULE'),
-  ('_pyrepl._minimal_curses',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\_minimal_curses.py',
-   'PYMODULE'),
-  ('ctypes.util',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\util.py',
-   'PYMODULE'),
-  ('ctypes._aix',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\_aix.py',
-   'PYMODULE'),
-  ('ctypes.macholib.dyld',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\macholib\\dyld.py',
-   'PYMODULE'),
-  ('ctypes.macholib',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\macholib\\__init__.py',
-   'PYMODULE'),
-  ('ctypes.macholib.dylib',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\macholib\\dylib.py',
-   'PYMODULE'),
-  ('ctypes.macholib.framework',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\macholib\\framework.py',
-   'PYMODULE'),
-  ('_pyrepl.keymap',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\keymap.py',
-   'PYMODULE'),
-  ('_pyrepl.windows_console',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\windows_console.py',
-   'PYMODULE'),
-  ('_pyrepl.windows_eventqueue',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\windows_eventqueue.py',
-   'PYMODULE'),
-  ('_pyrepl.base_eventqueue',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\base_eventqueue.py',
-   'PYMODULE'),
-  ('_pyrepl.unix_console',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\unix_console.py',
-   'PYMODULE'),
-  ('_pyrepl.unix_eventqueue',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\unix_eventqueue.py',
-   'PYMODULE'),
-  ('_pyrepl.fancy_termios',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\fancy_termios.py',
-   'PYMODULE'),
-  ('platform',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\platform.py',
-   'PYMODULE'),
-  ('_pyrepl.readline',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\readline.py',
-   'PYMODULE'),
-  ('_pyrepl.completing_reader',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\completing_reader.py',
-   'PYMODULE'),
-  ('_sitebuiltins',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_sitebuiltins.py',
-   'PYMODULE'),
-  ('pydoc',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\pydoc.py',
-   'PYMODULE'),
-  ('webbrowser',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\webbrowser.py',
-   'PYMODULE'),
-  ('shlex',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\shlex.py',
-   'PYMODULE'),
-  ('http.server',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\http\\server.py',
-   'PYMODULE'),
-  ('socketserver',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\socketserver.py',
-   'PYMODULE'),
-  ('html',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\html\\__init__.py',
-   'PYMODULE'),
-  ('html.entities',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\html\\entities.py',
-   'PYMODULE'),
-  ('pydoc_data.topics',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\pydoc_data\\topics.py',
-   'PYMODULE'),
-  ('pydoc_data.module_docs',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\pydoc_data\\module_docs.py',
-   'PYMODULE'),
-  ('pydoc_data',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\pydoc_data\\__init__.py',
-   'PYMODULE'),
-  ('code',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\code.py',
-   'PYMODULE'),
-  ('codeop',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\codeop.py',
-   'PYMODULE'),
-  ('_pyrepl.console',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\console.py',
-   'PYMODULE'),
-  ('_pyrepl.main',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pyrepl\\main.py',
-   'PYMODULE'),
-  ('rlcompleter',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\rlcompleter.py',
-   'PYMODULE'),
   ('mpmath',
    'C:\\Users\\rishi\\Documents\\pi '
    'splicer\\venv\\Lib\\site-packages\\mpmath\\__init__.py',
+   'PYMODULE'),
+  ('plyer.utils',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\utils.py',
+   'PYMODULE'),
+  ('plyer.platforms.win.wifi',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\wifi.py',
+   'PYMODULE'),
+  ('plyer.platforms.win.uniqueid',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\uniqueid.py',
+   'PYMODULE'),
+  ('plyer.platforms.win.tts',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\tts.py',
+   'PYMODULE'),
+  ('plyer.platforms.win.storagepath',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\storagepath.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\uuid.py',
+   'PYMODULE'),
+  ('plyer.platforms.win.screenshot',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\screenshot.py',
+   'PYMODULE'),
+  ('plyer.platforms.win.notification',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\notification.py',
+   'PYMODULE'),
+  ('plyer.platforms.win.libs.win_api_defs',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\libs\\win_api_defs.py',
+   'PYMODULE'),
+  ('plyer.platforms.win.libs.wifi_defs',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\libs\\wifi_defs.py',
+   'PYMODULE'),
+  ('plyer.platforms.win.libs.batterystatus',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\libs\\batterystatus.py',
+   'PYMODULE'),
+  ('plyer.platforms.win.libs.balloontip',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\libs\\balloontip.py',
+   'PYMODULE'),
+  ('plyer.platforms.win.libs',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\libs\\__init__.py',
+   'PYMODULE'),
+  ('plyer.platforms.win.keystore',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\keystore.py',
+   'PYMODULE'),
+  ('plyer.platforms.win.filechooser',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\filechooser.py',
+   'PYMODULE'),
+  ('plyer.platforms.win.email',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\email.py',
+   'PYMODULE'),
+  ('plyer.platforms.win.devicename',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\devicename.py',
+   'PYMODULE'),
+  ('plyer.platforms.win.cpu',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\cpu.py',
+   'PYMODULE'),
+  ('plyer.platforms.win.battery',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\battery.py',
+   'PYMODULE'),
+  ('plyer.platforms.win.audio',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\audio.py',
+   'PYMODULE'),
+  ('plyer.platforms.win',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\__init__.py',
+   'PYMODULE'),
+  ('plyer.platforms.macosx.wifi',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\wifi.py',
+   'PYMODULE'),
+  ('plyer.platforms.macosx.uniqueid',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\uniqueid.py',
+   'PYMODULE'),
+  ('plyer.platforms.macosx.tts',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\tts.py',
+   'PYMODULE'),
+  ('plyer.platforms.macosx.storagepath',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\storagepath.py',
+   'PYMODULE'),
+  ('plyer.platforms.macosx.screenshot',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\screenshot.py',
+   'PYMODULE'),
+  ('plyer.platforms.macosx.notification',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\notification.py',
+   'PYMODULE'),
+  ('plyer.platforms.macosx.libs.osx_paths',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\libs\\osx_paths.py',
+   'PYMODULE'),
+  ('plyer.platforms.macosx.libs.osx_motion_sensor',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\libs\\osx_motion_sensor.py',
+   'PYMODULE'),
+  ('plyer.platforms.macosx.libs',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\libs\\__init__.py',
+   'PYMODULE'),
+  ('plyer.platforms.macosx.keystore',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\keystore.py',
+   'PYMODULE'),
+  ('plyer.platforms.macosx.filechooser',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\filechooser.py',
+   'PYMODULE'),
+  ('plyer.platforms.macosx.email',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\email.py',
+   'PYMODULE'),
+  ('plyer.platforms.macosx.devicename',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\devicename.py',
+   'PYMODULE'),
+  ('plyer.platforms.macosx.cpu',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\cpu.py',
+   'PYMODULE'),
+  ('plyer.platforms.macosx.bluetooth',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\bluetooth.py',
+   'PYMODULE'),
+  ('plyer.platforms.macosx.battery',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\battery.py',
+   'PYMODULE'),
+  ('plyer.platforms.macosx.audio',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\audio.py',
+   'PYMODULE'),
+  ('plyer.platforms.macosx.accelerometer',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\accelerometer.py',
+   'PYMODULE'),
+  ('plyer.platforms.macosx',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\__init__.py',
+   'PYMODULE'),
+  ('plyer.platforms.linux.wifi',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\wifi.py',
+   'PYMODULE'),
+  ('plyer.platforms.linux.uniqueid',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\uniqueid.py',
+   'PYMODULE'),
+  ('plyer.platforms.linux.tts',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\tts.py',
+   'PYMODULE'),
+  ('plyer.platforms.linux.storagepath',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\storagepath.py',
+   'PYMODULE'),
+  ('plyer.platforms.linux.screenshot',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\screenshot.py',
+   'PYMODULE'),
+  ('plyer.platforms.linux.processors',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\processors.py',
+   'PYMODULE'),
+  ('plyer.platforms.linux.orientation',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\orientation.py',
+   'PYMODULE'),
+  ('plyer.platforms.linux.notification',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\notification.py',
+   'PYMODULE'),
+  ('plyer.platforms.linux.keystore',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\keystore.py',
+   'PYMODULE'),
+  ('plyer.platforms.linux.filechooser',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\filechooser.py',
+   'PYMODULE'),
+  ('plyer.platforms.linux.email',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\email.py',
+   'PYMODULE'),
+  ('plyer.platforms.linux.devicename',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\devicename.py',
+   'PYMODULE'),
+  ('plyer.platforms.linux.cpu',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\cpu.py',
+   'PYMODULE'),
+  ('plyer.platforms.linux.brightness',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\brightness.py',
+   'PYMODULE'),
+  ('plyer.platforms.linux.battery',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\battery.py',
+   'PYMODULE'),
+  ('plyer.platforms.linux.accelerometer',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\accelerometer.py',
+   'PYMODULE'),
+  ('plyer.platforms.linux',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\__init__.py',
+   'PYMODULE'),
+  ('plyer.platforms.ios.vibrator',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\vibrator.py',
+   'PYMODULE'),
+  ('plyer.platforms.ios.uniqueid',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\uniqueid.py',
+   'PYMODULE'),
+  ('plyer.platforms.ios.tts',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\tts.py',
+   'PYMODULE'),
+  ('plyer.platforms.ios.storagepath',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\storagepath.py',
+   'PYMODULE'),
+  ('plyer.platforms.ios.spatialorientation',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\spatialorientation.py',
+   'PYMODULE'),
+  ('plyer.platforms.ios.sms',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\sms.py',
+   'PYMODULE'),
+  ('plyer.platforms.ios.keystore',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\keystore.py',
+   'PYMODULE'),
+  ('plyer.platforms.ios.gyroscope',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\gyroscope.py',
+   'PYMODULE'),
+  ('plyer.platforms.ios.gravity',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\gravity.py',
+   'PYMODULE'),
+  ('plyer.platforms.ios.gps',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\gps.py',
+   'PYMODULE'),
+  ('plyer.platforms.ios.flash',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\flash.py',
+   'PYMODULE'),
+  ('plyer.platforms.ios.filechooser',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\filechooser.py',
+   'PYMODULE'),
+  ('plyer.platforms.ios.email',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\email.py',
+   'PYMODULE'),
+  ('plyer.platforms.ios.compass',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\compass.py',
+   'PYMODULE'),
+  ('plyer.platforms.ios.camera',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\camera.py',
+   'PYMODULE'),
+  ('plyer.platforms.ios.call',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\call.py',
+   'PYMODULE'),
+  ('plyer.platforms.ios.brightness',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\brightness.py',
+   'PYMODULE'),
+  ('plyer.platforms.ios.battery',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\battery.py',
+   'PYMODULE'),
+  ('plyer.platforms.ios.barometer',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\barometer.py',
+   'PYMODULE'),
+  ('plyer.platforms.ios.accelerometer',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\accelerometer.py',
+   'PYMODULE'),
+  ('plyer.platforms.ios',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\__init__.py',
+   'PYMODULE'),
+  ('plyer.platforms',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\__init__.py',
+   'PYMODULE'),
+  ('plyer.facades.wifi',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\wifi.py',
+   'PYMODULE'),
+  ('plyer.facades.vibrator',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\vibrator.py',
+   'PYMODULE'),
+  ('plyer.facades.uniqueid',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\uniqueid.py',
+   'PYMODULE'),
+  ('plyer.facades.tts',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\tts.py',
+   'PYMODULE'),
+  ('plyer.facades.temperature',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\temperature.py',
+   'PYMODULE'),
+  ('plyer.facades.stt',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\stt.py',
+   'PYMODULE'),
+  ('plyer.facades.storagepath',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\storagepath.py',
+   'PYMODULE'),
+  ('plyer.facades.spatialorientation',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\spatialorientation.py',
+   'PYMODULE'),
+  ('plyer.facades.sms',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\sms.py',
+   'PYMODULE'),
+  ('plyer.facades.screenshot',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\screenshot.py',
+   'PYMODULE'),
+  ('plyer.facades.proximity',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\proximity.py',
+   'PYMODULE'),
+  ('plyer.facades.processors',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\processors.py',
+   'PYMODULE'),
+  ('plyer.facades.orientation',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\orientation.py',
+   'PYMODULE'),
+  ('plyer.facades.notification',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\notification.py',
+   'PYMODULE'),
+  ('plyer.facades.light',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\light.py',
+   'PYMODULE'),
+  ('plyer.facades.keystore',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\keystore.py',
+   'PYMODULE'),
+  ('plyer.facades.irblaster',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\irblaster.py',
+   'PYMODULE'),
+  ('plyer.facades.humidity',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\humidity.py',
+   'PYMODULE'),
+  ('plyer.facades.gyroscope',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\gyroscope.py',
+   'PYMODULE'),
+  ('plyer.facades.gravity',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\gravity.py',
+   'PYMODULE'),
+  ('plyer.facades.gps',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\gps.py',
+   'PYMODULE'),
+  ('plyer.facades.flash',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\flash.py',
+   'PYMODULE'),
+  ('plyer.facades.filechooser',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\filechooser.py',
+   'PYMODULE'),
+  ('plyer.facades.email',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\email.py',
+   'PYMODULE'),
+  ('plyer.facades.devicename',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\devicename.py',
+   'PYMODULE'),
+  ('plyer.facades.cpu',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\cpu.py',
+   'PYMODULE'),
+  ('plyer.facades.compass',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\compass.py',
+   'PYMODULE'),
+  ('plyer.facades.camera',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\camera.py',
+   'PYMODULE'),
+  ('plyer.facades.call',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\call.py',
+   'PYMODULE'),
+  ('plyer.facades.brightness',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\brightness.py',
+   'PYMODULE'),
+  ('plyer.facades.bluetooth',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\bluetooth.py',
+   'PYMODULE'),
+  ('plyer.facades.battery',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\battery.py',
+   'PYMODULE'),
+  ('plyer.facades.barometer',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\barometer.py',
+   'PYMODULE'),
+  ('plyer.facades.audio',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\audio.py',
+   'PYMODULE'),
+  ('plyer.facades.accelerometer',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\accelerometer.py',
+   'PYMODULE'),
+  ('plyer.facades',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\__init__.py',
+   'PYMODULE'),
+  ('plyer',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\__init__.py',
    'PYMODULE'),
   ('pyfiglet.version',
    'C:\\Users\\rishi\\Documents\\pi '
@@ -3995,6 +5947,10 @@
    'C:\\Users\\rishi\\Documents\\pi '
    'splicer\\venv\\Lib\\site-packages\\pyfiglet\\__init__.py',
    'PYMODULE'),
+  ('_pylong',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_pylong.py',
+   'PYMODULE'),
   ('_py_abc',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_py_abc.py',
@@ -4030,18 +5986,6 @@
   ('winrt.runtime',
    'C:\\Users\\rishi\\Documents\\pi '
    'splicer\\venv\\Lib\\site-packages\\winrt\\runtime\\__init__.py',
-   'PYMODULE'),
-  ('typing_extensions',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\typing_extensions.py',
-   'PYMODULE'),
-  ('asyncio.coroutines',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\coroutines.py',
-   'PYMODULE'),
-  ('uuid',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\uuid.py',
    'PYMODULE'),
   ('winrt.windows', '-', 'PYMODULE'),
   ('winrt.system',
@@ -4093,302 +6037,6 @@
    'PYMODULE'),
   ('winrt.windows.data.xml', '-', 'PYMODULE'),
   ('winrt.windows.data', '-', 'PYMODULE'),
-  ('asyncio',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\__init__.py',
-   'PYMODULE'),
-  ('asyncio.unix_events',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\unix_events.py',
-   'PYMODULE'),
-  ('asyncio.log',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\log.py',
-   'PYMODULE'),
-  ('asyncio.windows_events',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\windows_events.py',
-   'PYMODULE'),
-  ('asyncio.windows_utils',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\windows_utils.py',
-   'PYMODULE'),
-  ('asyncio.selector_events',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\selector_events.py',
-   'PYMODULE'),
-  ('asyncio.proactor_events',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\proactor_events.py',
-   'PYMODULE'),
-  ('asyncio.base_subprocess',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\base_subprocess.py',
-   'PYMODULE'),
-  ('asyncio.threads',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\threads.py',
-   'PYMODULE'),
-  ('asyncio.taskgroups',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\taskgroups.py',
-   'PYMODULE'),
-  ('asyncio.subprocess',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\subprocess.py',
-   'PYMODULE'),
-  ('asyncio.streams',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\streams.py',
-   'PYMODULE'),
-  ('asyncio.runners',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\runners.py',
-   'PYMODULE'),
-  ('asyncio.base_events',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\base_events.py',
-   'PYMODULE'),
-  ('concurrent.futures',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\futures\\__init__.py',
-   'PYMODULE'),
-  ('concurrent.futures.thread',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\futures\\thread.py',
-   'PYMODULE'),
-  ('concurrent.futures.process',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\futures\\process.py',
-   'PYMODULE'),
-  ('concurrent.futures._base',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\futures\\_base.py',
-   'PYMODULE'),
-  ('concurrent',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\__init__.py',
-   'PYMODULE'),
-  ('asyncio.trsock',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\trsock.py',
-   'PYMODULE'),
-  ('asyncio.staggered',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\staggered.py',
-   'PYMODULE'),
-  ('asyncio.timeouts',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\timeouts.py',
-   'PYMODULE'),
-  ('asyncio.tasks',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\tasks.py',
-   'PYMODULE'),
-  ('asyncio.queues',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\queues.py',
-   'PYMODULE'),
-  ('asyncio.base_tasks',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\base_tasks.py',
-   'PYMODULE'),
-  ('asyncio.locks',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\locks.py',
-   'PYMODULE'),
-  ('asyncio.mixins',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\mixins.py',
-   'PYMODULE'),
-  ('asyncio.sslproto',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\sslproto.py',
-   'PYMODULE'),
-  ('asyncio.transports',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\transports.py',
-   'PYMODULE'),
-  ('asyncio.protocols',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\protocols.py',
-   'PYMODULE'),
-  ('asyncio.futures',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\futures.py',
-   'PYMODULE'),
-  ('asyncio.base_futures',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\base_futures.py',
-   'PYMODULE'),
-  ('asyncio.exceptions',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\exceptions.py',
-   'PYMODULE'),
-  ('asyncio.events',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\events.py',
-   'PYMODULE'),
-  ('asyncio.format_helpers',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\format_helpers.py',
-   'PYMODULE'),
-  ('asyncio.constants',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\asyncio\\constants.py',
-   'PYMODULE'),
-  ('plyer',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\__init__.py',
-   'PYMODULE'),
-  ('plyer.utils',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\utils.py',
-   'PYMODULE'),
-  ('plyer.facades',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\__init__.py',
-   'PYMODULE'),
-  ('plyer.facades.devicename',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\devicename.py',
-   'PYMODULE'),
-  ('plyer.facades.screenshot',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\screenshot.py',
-   'PYMODULE'),
-  ('plyer.facades.cpu',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\cpu.py',
-   'PYMODULE'),
-  ('plyer.facades.processors',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\processors.py',
-   'PYMODULE'),
-  ('plyer.facades.bluetooth',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\bluetooth.py',
-   'PYMODULE'),
-  ('plyer.facades.storagepath',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\storagepath.py',
-   'PYMODULE'),
-  ('plyer.facades.keystore',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\keystore.py',
-   'PYMODULE'),
-  ('plyer.facades.brightness',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\brightness.py',
-   'PYMODULE'),
-  ('plyer.facades.spatialorientation',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\spatialorientation.py',
-   'PYMODULE'),
-  ('plyer.facades.humidity',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\humidity.py',
-   'PYMODULE'),
-  ('plyer.facades.temperature',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\temperature.py',
-   'PYMODULE'),
-  ('plyer.facades.wifi',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\wifi.py',
-   'PYMODULE'),
-  ('plyer.facades.vibrator',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\vibrator.py',
-   'PYMODULE'),
-  ('plyer.facades.uniqueid',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\uniqueid.py',
-   'PYMODULE'),
-  ('plyer.facades.tts',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\tts.py',
-   'PYMODULE'),
-  ('plyer.facades.stt',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\stt.py',
-   'PYMODULE'),
-  ('plyer.facades.sms',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\sms.py',
-   'PYMODULE'),
-  ('plyer.facades.notification',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\notification.py',
-   'PYMODULE'),
-  ('plyer.facades.orientation',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\orientation.py',
-   'PYMODULE'),
-  ('plyer.facades.proximity',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\proximity.py',
-   'PYMODULE'),
-  ('plyer.facades.light',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\light.py',
-   'PYMODULE'),
-  ('plyer.facades.irblaster',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\irblaster.py',
-   'PYMODULE'),
-  ('plyer.facades.gyroscope',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\gyroscope.py',
-   'PYMODULE'),
-  ('plyer.facades.gravity',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\gravity.py',
-   'PYMODULE'),
-  ('plyer.facades.gps',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\gps.py',
-   'PYMODULE'),
-  ('plyer.facades.flash',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\flash.py',
-   'PYMODULE'),
-  ('plyer.facades.filechooser',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\filechooser.py',
-   'PYMODULE'),
-  ('plyer.facades.email',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\email.py',
-   'PYMODULE'),
-  ('plyer.facades.compass',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\compass.py',
-   'PYMODULE'),
-  ('plyer.facades.camera',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\camera.py',
-   'PYMODULE'),
-  ('plyer.facades.call',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\call.py',
-   'PYMODULE'),
-  ('plyer.facades.battery',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\battery.py',
-   'PYMODULE'),
-  ('plyer.facades.barometer',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\barometer.py',
-   'PYMODULE'),
-  ('plyer.facades.audio',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\audio.py',
-   'PYMODULE'),
-  ('plyer.facades.accelerometer',
-   'C:\\Users\\rishi\\Documents\\pi '
-   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\accelerometer.py',
-   'PYMODULE'),
   ('rich.progress',
    'C:\\Users\\rishi\\Documents\\pi '
    'splicer\\venv\\Lib\\site-packages\\rich\\progress.py',
@@ -5981,10 +7629,6 @@
    'C:\\Users\\rishi\\Documents\\pi '
    'splicer\\venv\\Lib\\site-packages\\rich\\theme.py',
    'PYMODULE'),
-  ('configparser',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\configparser.py',
-   'PYMODULE'),
   ('rich.default_styles',
    'C:\\Users\\rishi\\Documents\\pi '
    'splicer\\venv\\Lib\\site-packages\\rich\\default_styles.py',
@@ -6466,9 +8110,21 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_queue.pyd',
    'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
   ('_wmi.pyd',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_wmi.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_uuid.pyd',
    'EXTENSION'),
   ('winsound.pyd',
    'C:\\Program '
@@ -6485,10 +8141,6 @@
   ('winrt\\_winrt.cp313-win_amd64.pyd',
    'C:\\Users\\rishi\\Documents\\pi '
    'splicer\\venv\\Lib\\site-packages\\winrt\\_winrt.cp313-win_amd64.pyd',
-   'EXTENSION'),
-  ('_uuid.pyd',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_uuid.pyd',
    'EXTENSION'),
   ('winrt\\_winrt_windows_storage_streams.cp313-win_amd64.pyd',
    'C:\\Users\\rishi\\Documents\\pi '
@@ -6529,14 +8181,6 @@
   ('winrt\\_winrt_windows_data_xml_dom.cp313-win_amd64.pyd',
    'C:\\Users\\rishi\\Documents\\pi '
    'splicer\\venv\\Lib\\site-packages\\winrt\\_winrt_windows_data_xml_dom.cp313-win_amd64.pyd',
-   'EXTENSION'),
-  ('_overlapped.pyd',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_overlapped.pyd',
-   'EXTENSION'),
-  ('_asyncio.pyd',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\DLLs\\_asyncio.pyd',
    'EXTENSION'),
   ('VCRUNTIME140.dll',
    'C:\\Program '
@@ -6971,6 +8615,622 @@
   ('mpmath\\visualization.py',
    'C:\\Users\\rishi\\Documents\\pi '
    'splicer\\venv\\Lib\\site-packages\\mpmath\\visualization.py',
+   'DATA'),
+  ('plyer-2.1.0.dist-info\\INSTALLER',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer-2.1.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('plyer-2.1.0.dist-info\\LICENSE',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer-2.1.0.dist-info\\LICENSE',
+   'DATA'),
+  ('plyer-2.1.0.dist-info\\METADATA',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer-2.1.0.dist-info\\METADATA',
+   'DATA'),
+  ('plyer-2.1.0.dist-info\\RECORD',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer-2.1.0.dist-info\\RECORD',
+   'DATA'),
+  ('plyer-2.1.0.dist-info\\REQUESTED',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer-2.1.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('plyer-2.1.0.dist-info\\WHEEL',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer-2.1.0.dist-info\\WHEEL',
+   'DATA'),
+  ('plyer-2.1.0.dist-info\\top_level.txt',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer-2.1.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('plyer\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\__init__.py',
+   'DATA'),
+  ('plyer\\facades\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\__init__.py',
+   'DATA'),
+  ('plyer\\facades\\accelerometer.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\accelerometer.py',
+   'DATA'),
+  ('plyer\\facades\\audio.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\audio.py',
+   'DATA'),
+  ('plyer\\facades\\barometer.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\barometer.py',
+   'DATA'),
+  ('plyer\\facades\\battery.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\battery.py',
+   'DATA'),
+  ('plyer\\facades\\bluetooth.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\bluetooth.py',
+   'DATA'),
+  ('plyer\\facades\\brightness.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\brightness.py',
+   'DATA'),
+  ('plyer\\facades\\call.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\call.py',
+   'DATA'),
+  ('plyer\\facades\\camera.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\camera.py',
+   'DATA'),
+  ('plyer\\facades\\compass.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\compass.py',
+   'DATA'),
+  ('plyer\\facades\\cpu.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\cpu.py',
+   'DATA'),
+  ('plyer\\facades\\devicename.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\devicename.py',
+   'DATA'),
+  ('plyer\\facades\\email.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\email.py',
+   'DATA'),
+  ('plyer\\facades\\filechooser.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\filechooser.py',
+   'DATA'),
+  ('plyer\\facades\\flash.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\flash.py',
+   'DATA'),
+  ('plyer\\facades\\gps.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\gps.py',
+   'DATA'),
+  ('plyer\\facades\\gravity.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\gravity.py',
+   'DATA'),
+  ('plyer\\facades\\gyroscope.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\gyroscope.py',
+   'DATA'),
+  ('plyer\\facades\\humidity.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\humidity.py',
+   'DATA'),
+  ('plyer\\facades\\irblaster.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\irblaster.py',
+   'DATA'),
+  ('plyer\\facades\\keystore.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\keystore.py',
+   'DATA'),
+  ('plyer\\facades\\light.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\light.py',
+   'DATA'),
+  ('plyer\\facades\\notification.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\notification.py',
+   'DATA'),
+  ('plyer\\facades\\orientation.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\orientation.py',
+   'DATA'),
+  ('plyer\\facades\\processors.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\processors.py',
+   'DATA'),
+  ('plyer\\facades\\proximity.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\proximity.py',
+   'DATA'),
+  ('plyer\\facades\\screenshot.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\screenshot.py',
+   'DATA'),
+  ('plyer\\facades\\sms.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\sms.py',
+   'DATA'),
+  ('plyer\\facades\\spatialorientation.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\spatialorientation.py',
+   'DATA'),
+  ('plyer\\facades\\storagepath.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\storagepath.py',
+   'DATA'),
+  ('plyer\\facades\\stt.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\stt.py',
+   'DATA'),
+  ('plyer\\facades\\temperature.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\temperature.py',
+   'DATA'),
+  ('plyer\\facades\\tts.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\tts.py',
+   'DATA'),
+  ('plyer\\facades\\uniqueid.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\uniqueid.py',
+   'DATA'),
+  ('plyer\\facades\\vibrator.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\vibrator.py',
+   'DATA'),
+  ('plyer\\facades\\wifi.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\facades\\wifi.py',
+   'DATA'),
+  ('plyer\\platforms\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\__init__.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\__init__.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\accelerometer.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\accelerometer.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\audio.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\audio.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\barometer.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\barometer.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\battery.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\battery.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\bluetooth.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\bluetooth.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\brightness.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\brightness.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\call.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\call.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\camera.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\camera.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\compass.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\compass.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\devicename.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\devicename.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\email.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\email.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\filechooser.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\filechooser.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\flash.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\flash.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\gps.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\gps.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\gravity.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\gravity.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\gyroscope.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\gyroscope.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\humidity.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\humidity.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\irblaster.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\irblaster.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\keystore.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\keystore.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\light.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\light.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\notification.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\notification.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\orientation.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\orientation.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\proximity.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\proximity.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\sms.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\sms.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\spatialorientation.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\spatialorientation.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\storagepath.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\storagepath.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\stt.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\stt.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\temperature.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\temperature.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\tts.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\tts.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\uniqueid.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\uniqueid.py',
+   'DATA'),
+  ('plyer\\platforms\\android\\vibrator.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\android\\vibrator.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\__init__.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\accelerometer.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\accelerometer.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\barometer.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\barometer.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\battery.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\battery.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\brightness.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\brightness.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\call.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\call.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\camera.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\camera.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\compass.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\compass.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\email.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\email.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\filechooser.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\filechooser.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\flash.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\flash.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\gps.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\gps.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\gravity.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\gravity.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\gyroscope.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\gyroscope.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\keystore.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\keystore.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\sms.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\sms.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\spatialorientation.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\spatialorientation.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\storagepath.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\storagepath.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\tts.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\tts.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\uniqueid.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\uniqueid.py',
+   'DATA'),
+  ('plyer\\platforms\\ios\\vibrator.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\ios\\vibrator.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\__init__.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\accelerometer.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\accelerometer.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\battery.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\battery.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\brightness.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\brightness.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\cpu.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\cpu.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\devicename.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\devicename.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\email.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\email.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\filechooser.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\filechooser.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\keystore.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\keystore.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\notification.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\notification.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\orientation.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\orientation.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\processors.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\processors.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\screenshot.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\screenshot.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\storagepath.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\storagepath.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\tts.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\tts.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\uniqueid.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\uniqueid.py',
+   'DATA'),
+  ('plyer\\platforms\\linux\\wifi.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\linux\\wifi.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\__init__.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\accelerometer.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\accelerometer.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\audio.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\audio.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\battery.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\battery.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\bluetooth.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\bluetooth.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\cpu.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\cpu.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\devicename.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\devicename.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\email.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\email.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\filechooser.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\filechooser.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\keystore.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\keystore.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\libs\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\libs\\__init__.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\libs\\osx_motion_sensor.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\libs\\osx_motion_sensor.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\libs\\osx_paths.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\libs\\osx_paths.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\notification.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\notification.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\screenshot.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\screenshot.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\storagepath.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\storagepath.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\tts.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\tts.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\uniqueid.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\uniqueid.py',
+   'DATA'),
+  ('plyer\\platforms\\macosx\\wifi.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\macosx\\wifi.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\__init__.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\audio.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\audio.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\battery.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\battery.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\cpu.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\cpu.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\devicename.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\devicename.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\email.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\email.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\filechooser.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\filechooser.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\keystore.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\keystore.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\libs\\__init__.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\libs\\__init__.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\libs\\balloontip.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\libs\\balloontip.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\libs\\batterystatus.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\libs\\batterystatus.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\libs\\wifi_defs.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\libs\\wifi_defs.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\libs\\win_api_defs.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\libs\\win_api_defs.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\notification.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\notification.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\screenshot.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\screenshot.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\storagepath.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\storagepath.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\tts.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\tts.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\uniqueid.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\uniqueid.py',
+   'DATA'),
+  ('plyer\\platforms\\win\\wifi.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\platforms\\win\\wifi.py',
+   'DATA'),
+  ('plyer\\utils.py',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\plyer\\utils.py',
    'DATA'),
   ('pyfiglet-1.0.4.dist-info\\INSTALLER',
    'C:\\Users\\rishi\\Documents\\pi '
@@ -9328,84 +11588,69 @@
    'C:\\Users\\rishi\\Documents\\pi '
    'splicer\\venv\\Lib\\site-packages\\pyfiglet\\version.py',
    'DATA'),
+  ('setuptools\\_vendor\\jaraco\\text\\Lorem ipsum.txt',
+   'C:\\Users\\rishi\\Documents\\pi '
+   'splicer\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\Lorem '
+   'ipsum.txt',
+   'DATA'),
   ('base_library.zip',
    'C:\\Users\\rishi\\Documents\\pi splicer\\build\\main\\base_library.zip',
    'DATA')],
- [('types',
+ [('weakref',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\types.py',
-   'PYMODULE'),
-  ('linecache',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\linecache.py',
-   'PYMODULE'),
-  ('abc',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\abc.py',
-   'PYMODULE'),
-  ('sre_constants',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\sre_constants.py',
-   'PYMODULE'),
-  ('operator',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\operator.py',
-   'PYMODULE'),
-  ('functools',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\functools.py',
-   'PYMODULE'),
-  ('collections',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\collections\\__init__.py',
-   'PYMODULE'),
-  ('ntpath',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ntpath.py',
-   'PYMODULE'),
-  ('reprlib',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\reprlib.py',
-   'PYMODULE'),
-  ('os',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\os.py',
-   'PYMODULE'),
-  ('_weakrefset',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_weakrefset.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\weakref.py',
    'PYMODULE'),
   ('codecs',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\codecs.py',
    'PYMODULE'),
-  ('_collections_abc',
+  ('genericpath',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_collections_abc.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\genericpath.py',
+   'PYMODULE'),
+  ('_weakrefset',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_weakrefset.py',
+   'PYMODULE'),
+  ('sre_compile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\sre_compile.py',
+   'PYMODULE'),
+  ('copyreg',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\copyreg.py',
+   'PYMODULE'),
+  ('functools',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\functools.py',
+   'PYMODULE'),
+  ('reprlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\reprlib.py',
+   'PYMODULE'),
+  ('heapq',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\heapq.py',
+   'PYMODULE'),
+  ('abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\abc.py',
    'PYMODULE'),
   ('sre_parse',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\sre_parse.py',
    'PYMODULE'),
-  ('re._parser',
+  ('io',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\re\\_parser.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\io.py',
    'PYMODULE'),
-  ('re._constants',
+  ('keyword',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\re\\_constants.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\keyword.py',
    'PYMODULE'),
-  ('re._compiler',
+  ('sre_constants',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\re\\_compiler.py',
-   'PYMODULE'),
-  ('re._casefix',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\re\\_casefix.py',
-   'PYMODULE'),
-  ('re',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\re\\__init__.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\sre_constants.py',
    'PYMODULE'),
   ('encodings.zlib_codec',
    'C:\\Program '
@@ -9895,55 +12140,75 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\__init__.py',
    'PYMODULE'),
-  ('heapq',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\heapq.py',
-   'PYMODULE'),
-  ('keyword',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\keyword.py',
-   'PYMODULE'),
-  ('copyreg',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\copyreg.py',
-   'PYMODULE'),
-  ('traceback',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\traceback.py',
-   'PYMODULE'),
-  ('weakref',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\weakref.py',
-   'PYMODULE'),
-  ('enum',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\enum.py',
-   'PYMODULE'),
   ('posixpath',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\posixpath.py',
+   'PYMODULE'),
+  ('linecache',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\linecache.py',
    'PYMODULE'),
   ('warnings',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\warnings.py',
    'PYMODULE'),
-  ('stat',
+  ('types',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\stat.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\types.py',
    'PYMODULE'),
-  ('sre_compile',
+  ('_collections_abc',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\sre_compile.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\_collections_abc.py',
    'PYMODULE'),
-  ('io',
+  ('operator',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\io.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\operator.py',
    'PYMODULE'),
-  ('genericpath',
+  ('traceback',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\genericpath.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\traceback.py',
    'PYMODULE'),
   ('locale',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\locale.py',
+   'PYMODULE'),
+  ('stat',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\stat.py',
+   'PYMODULE'),
+  ('ntpath',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\ntpath.py',
+   'PYMODULE'),
+  ('collections',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\collections\\__init__.py',
+   'PYMODULE'),
+  ('enum',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\enum.py',
+   'PYMODULE'),
+  ('re._parser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\re\\_parser.py',
+   'PYMODULE'),
+  ('re._constants',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\re\\_constants.py',
+   'PYMODULE'),
+  ('re._compiler',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\re\\_compiler.py',
+   'PYMODULE'),
+  ('re._casefix',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\re\\_casefix.py',
+   'PYMODULE'),
+  ('re',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\re\\__init__.py',
+   'PYMODULE'),
+  ('os',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\\Lib\\os.py',
    'PYMODULE')])

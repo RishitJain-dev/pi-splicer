@@ -1,3 +1,6 @@
+import os
+os.environ["MPMATH_NOSPEED"] = "yes"
+
 import config
 import pifinder
 import splicer
