@@ -1,4 +1,4 @@
-import config
+import python.config as config
 ## other files workign together
 
 import sys

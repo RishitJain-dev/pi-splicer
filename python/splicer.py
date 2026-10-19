@@ -1,5 +1,5 @@
-import config
-import pifinder
+import python.config as config
+import python.pifinder as pifinder
 ## other files working together
 
 import mpmath
