@@ -1,7 +1,4 @@
-import { pidigits, includeascii, maxsearch, search } from '/config'
-import { pistring } from './pifinder'
-
-alphabet = [
+const alphabet = [
     "A", "B", "C", "D", "E",
     "F", "G", "H", "I", "J",
     "K", "L", "M", "N", "O", 
@@ -9,31 +6,30 @@ alphabet = [
     "U", "V", "W", "X", "Y", 
     "Z"
 ];
+let comb = "";
 
+let converted = [];
+export let alphaPi = "";
 
-converted = [];
-export let final = "";
-
-export function splice(pidigits, pistring) {
+export function splice(pistring) {
     converted = [];
     pistring = pistring.replace(".", "");
 
-    for (let i = 0; i <= length(pistring); i++) {
-        comb = pistring.splice(i, i+2);
+    for (let i = 0; i < pistring.length; i++) {
+        comb = pistring.slice(i, i+2);
+        comb = parseInt(comb); //gets rid of 0s at start
+        //05 -> 5
 
-        if (comb > 26) {
+        if (comb >= 26) { //0-25
             if (comb <= 78) {
                 comb = comb % 26;
+            } else {
+                continue;
             }
         }
-        if (comb < 10) {
-            if (length(comb) == 2) {
-                comb = comb.replace("0", "");
-            }
-        }
-        converted.append(alphabet[comb]);
+        converted.push(alphabet[comb]);
         
-        final = "".join(converted);
-        return final
+        alphaPi = converted.join("");
     }
+    return alphaPi
 }
