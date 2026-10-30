@@ -1,14 +1,14 @@
 import { getVars } from './config.js';
 
 export async function getpi() {
-    const { pidigits, outputTxt } = getVars();
+    const { pidigits, outputTxt, statusTxt } = getVars();
     
     try {
         let fullPi = "";
         let fetched = 0;
         let batchSize = 1000;
 
-        outputTxt.innerText = `getting ${pidigits} of pi...`;
+        statusTxt.innerText = `getting ${pidigits} of pi...`;
 
         while (fetched < pidigits) {
             const response = await fetch(`https://api.pi.delivery/v1/pi?start=${fetched}&numberOfDigits=${batchSize}`);
@@ -17,11 +17,11 @@ export async function getpi() {
             fetched += batchSize;
         }
 
-        outputTxt.innerText = "loaded successfully!!";
+        statusTxt.innerText = "loaded successfully!!";
         let piString = fullPi.slice(0, pidigits);
         return piString
     } catch (error) { //error is basically just data about what went wrong
-        outputTxt.innerText = "couldnt get pi :(";
+        statusTxt.innerText = "couldnt get pi :(";
         console.error(error);
         throw error;
     }

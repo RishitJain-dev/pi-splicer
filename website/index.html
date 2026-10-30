@@ -1,13 +1,25 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <script src="config.js" type="module"></script>
+        <script src="main.js" type="module"></script>
+        <script src="pifinder.js" type="module"></script>
+        <script src="search.js" type="module"></script>
+        <script src="splicer.js" type="module"></script>  
         <meta charset="UTF-8">
         <title>Pi Splicer</title>
         <link rel="stylesheet" href="styles.css">
     </head>
-    <body>
+    <body> 
         <img src="/pilogo.png" alt="logo">
-        <button class="Btn-Container">
+        <p></p>
+        <input id="searchTermInput" type="text" placeholder="what you want to search (eg ABC)">
+        <p></p>
+        <input id="piDigitsInput" type="text" placeholder="how many digits of pi you want to search in">
+
+        <p id="statusTxt">a</p>
+        <p id="resultTxt">a</p>
+        <button class="Btn-Container" id="spliceButton">
             <span class="text">Search!</span>
             <span class="icon-Container">
                 <svg

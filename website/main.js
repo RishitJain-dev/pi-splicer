@@ -4,8 +4,8 @@ import { searchString } from './search.js'
 import { getVars } from './config.js';
 
 export async function runSplicer() {
-    const { outputTxt } = getVars();
-    outputTxt.innerText = "working...";
+    const { statusTxt } = getVars();
+    statusTxt.innerText = "working...";
 
     let piString = await getpi();
     let alphaPi = splice(piString);

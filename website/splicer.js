@@ -24,12 +24,14 @@ export function splice(pistring) {
             if (comb <= 78) {
                 comb = comb % 26;
             } else {
+                converted.push("@");//placeholder for skipped numbers
                 continue;
             }
         }
         converted.push(alphabet[comb]);
         
-        alphaPi = converted.join("");
     }
+    
+    alphaPi = converted.join("");
     return alphaPi
 }
