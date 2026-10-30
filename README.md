@@ -28,11 +28,11 @@ import os
 import mpmath
 ~~~
 
-### Credits
+## Credits
 
 Thanks to Hack Club for organising the YSWS event, [Dyad](https://dyad.hackclub.com/dashboard) , and allowing me to create this, and recieve ***PEAK and Lethal Company!!!***
 
-### AI transparency
+## AI transparency
 I have used minimal amounts of AI within this project, only a few lines which required debugging, and only for things I was too lazy to do, rather than things I didn't know how to do
 
 <img width="1115" height="605" alt="image" src="https://github.com/user-attachments/assets/1905dfe1-e77a-4f91-986c-34554bd9fd7e" />
